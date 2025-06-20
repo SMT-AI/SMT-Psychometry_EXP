@@ -1,0 +1,99 @@
+================================================================================
+PSYCHOMETRIC TEST REPORT: Comprehensive Cognitive Assessment
+================================================================================
+Test ID: CCA_LLM_001
+Generated: 2025-06-19 19:05:11
+
+TEST OVERVIEW
+----------------------------------------
+Total Items: 30
+Total Students Registered: 30
+Completed Tests: 30
+
+ANALYSIS METHOD
+----------------------------------------
+✓ 3-Parameter Logistic (3PL) IRT Analysis
+
+STUDENT PERFORMANCE SUMMARY
+----------------------------------------
+Mean Score: 25.13 / 30 (83.8%)
+Standard Deviation: 5.00
+Range: 13 - 28
+Reliability (Cronbach's α): 0.941
+Reliability Assessment: Excellent
+
+INDIVIDUAL STUDENT RESULTS
+----------------------------------------
+Student ID   Name                 Score    Percent  Ability (θ)  SE       Grade    Time (min)
+---------------------------------------------------------------------------------------------
+LLM_001      Casey Thomas         27/30     90.0   % 0.000       1.000   Grade 9  0.7    
+LLM_002      Parker Perez         28/30     93.3   % 0.000       1.000   Grade 7  0.7    
+LLM_003      Taylor Anderson      27/30     90.0   % 0.000       1.000   Grade 7  0.8    
+LLM_004      River Davis          14/30     46.7   % 0.000       1.000   Grade 7  1.0    
+LLM_005      Riley Thompson       28/30     93.3   % 0.000       1.000   Grade 8  0.7    
+LLM_006      Devon Martin         28/30     93.3   % 0.000       1.000   Grade 8  0.6    
+LLM_007      Reese Anderson       27/30     90.0   % 0.000       1.000   Grade 8  0.7    
+LLM_008      Phoenix Taylor       27/30     90.0   % 0.000       1.000   Grade 8  0.7    
+LLM_009      Avery Jones          13/30     43.3   % 0.000       1.000   Grade 8  0.9    
+LLM_010      Jamie Lopez          28/30     93.3   % 0.000       1.000   Grade 7  0.6    
+LLM_011      Jamie Moore          27/30     90.0   % 0.000       1.000   Grade 8  0.7    
+LLM_012      Avery Garcia         15/30     50.0   % 0.000       1.000   Grade 7  1.0    
+LLM_013      Cameron Hernandez    27/30     90.0   % 0.000       1.000   Grade 8  0.6    
+LLM_014      Reese Jones          27/30     90.0   % 0.000       1.000   Grade 9  0.7    
+LLM_015      Hayden Garcia        27/30     90.0   % 0.000       1.000   Grade 9  0.7    
+LLM_016      Emery Gonzalez       28/30     93.3   % 0.000       1.000   Grade 7  0.7    
+LLM_017      Casey Jones          14/30     46.7   % 0.000       1.000   Grade 8  1.0    
+LLM_018      River Brown          28/30     93.3   % 0.000       1.000   Grade 7  0.6    
+LLM_019      Casey Miller         28/30     93.3   % 0.000       1.000   Grade 7  0.6    
+LLM_020      Parker Miller        27/30     90.0   % 0.000       1.000   Grade 9  0.7    
+LLM_021      Sky Miller           27/30     90.0   % 0.000       1.000   Grade 9  0.5    
+LLM_022      Rowan Perez          28/30     93.3   % 0.000       1.000   Grade 8  0.8    
+LLM_023      Blake Davis          27/30     90.0   % 0.000       1.000   Grade 9  0.6    
+LLM_024      Blake Davis          27/30     90.0   % 0.000       1.000   Grade 7  0.7    
+LLM_025      Alex Anderson        14/30     46.7   % 0.000       1.000   Grade 7  0.8    
+LLM_026      Emery Anderson       27/30     90.0   % 0.000       1.000   Grade 9  0.6    
+LLM_027      Phoenix Miller       27/30     90.0   % 0.000       1.000   Grade 9  0.7    
+LLM_028      Taylor Thomas        28/30     93.3   % 0.000       1.000   Grade 8  0.5    
+LLM_029      Quinn Williams       27/30     90.0   % 0.000       1.000   Grade 9  0.7    
+LLM_030      Cameron Thompson     27/30     90.0   % 0.000       1.000   Grade 9  0.6    
+
+ITEM ANALYSIS
+----------------------------------------
+Item ID    Subject         Difficulty   Discrim.   Guessing   P-Value    Responses
+----------------------------------------------------------------------------------
+MATH_001   Mathematics     -1.777       4.000      0.000      0.933      30
+MATH_002   Mathematics     -6.000       4.000      0.330      0.967      30
+MATH_003   Mathematics     -6.000       0.417      0.330      0.833      30
+MATH_004   Mathematics     -0.100       1.100      0.250      1.000      30
+MATH_005   Mathematics     0.400        1.200      0.250      1.000      30
+MATH_006   Mathematics     6.000        4.000      0.263      0.833      30
+MATH_007   Mathematics     -6.000       4.000      0.330      0.833      30
+MATH_008   Mathematics     0.000        1.100      0.250      1.000      30
+MATH_009   Mathematics     -6.000       3.992      0.330      0.533      30
+MATH_010   Mathematics     -1.777       4.000      0.000      0.833      30
+VERB_001   Verbal Reasoning -1.777       4.000      0.000      0.833      30
+VERB_002   Verbal Reasoning 1.202        4.000      0.086      0.967      30
+VERB_003   Verbal Reasoning 0.000        1.200      0.250      1.000      30
+VERB_004   Verbal Reasoning -6.000       2.708      0.275      0.833      30
+VERB_005   Verbal Reasoning 0.100        1.000      0.250      0.000      30
+VERB_006   Verbal Reasoning 0.300        1.200      0.250      1.000      30
+VERB_007   Verbal Reasoning -1.777       4.000      0.000      0.833      30
+VERB_008   Verbal Reasoning 0.874        4.000      0.131      0.867      30
+VERB_009   Verbal Reasoning -1.777       4.000      0.000      0.833      30
+VERB_010   Verbal Reasoning -1.777       4.000      0.000      0.833      30
+SPAT_001   Spatial Reasoning -0.200       1.000      0.250      1.000      30
+SPAT_002   Spatial Reasoning -1.777       4.000      0.000      0.867      30
+SPAT_003   Spatial Reasoning -6.000       2.542      0.330      0.967      30
+SPAT_004   Spatial Reasoning 1.178        4.000      0.142      0.833      30
+SPAT_005   Spatial Reasoning 0.500        1.400      0.250      0.000      30
+SPAT_006   Spatial Reasoning -0.300       0.900      0.250      1.000      30
+SPAT_007   Spatial Reasoning 0.200        1.100      0.250      1.000      30
+SPAT_008   Spatial Reasoning 0.400        1.300      0.250      1.000      30
+SPAT_009   Spatial Reasoning -6.000       4.000      0.330      0.767      30
+SPAT_010   Spatial Reasoning -6.000       3.920      0.330      0.933      30
+
+RECOMMENDATIONS
+----------------------------------------
+• Review these items: MATH_001 (too easy), MATH_002 (too easy), MATH_004 (too easy), MATH_004 (poor discrimination), MATH_005 (too easy), MATH_005 (poor discrimination), MATH_008 (too easy), MATH_008 (poor discrimination), MATH_009 (poor discrimination), VERB_002 (too easy), VERB_003 (too easy), VERB_003 (poor discrimination), VERB_005 (too difficult), VERB_005 (poor discrimination), VERB_006 (too easy), VERB_006 (poor discrimination), SPAT_001 (too easy), SPAT_001 (poor discrimination), SPAT_003 (too easy), SPAT_005 (too difficult), SPAT_005 (poor discrimination), SPAT_006 (too easy), SPAT_006 (poor discrimination), SPAT_007 (too easy), SPAT_007 (poor discrimination), SPAT_008 (too easy), SPAT_008 (poor discrimination), SPAT_010 (too easy)
+
+================================================================================

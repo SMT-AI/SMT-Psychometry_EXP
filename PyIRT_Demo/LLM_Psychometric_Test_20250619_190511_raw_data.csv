@@ -1,0 +1,901 @@
+student_id,student_name,grade_level,item_id,subject_area,response,response_letter,correct_answer,correct_letter,is_correct,raw_score,percent_correct,ability_estimate,test_time_minutes
+LLM_001,Casey Thomas,Grade 9,MATH_001,Mathematics,1,B,1,B,True,27,90.0,0.0,0.65474895
+LLM_001,Casey Thomas,Grade 9,MATH_002,Mathematics,1,B,1,B,True,27,90.0,0.0,0.65474895
+LLM_001,Casey Thomas,Grade 9,MATH_003,Mathematics,0,A,0,A,True,27,90.0,0.0,0.65474895
+LLM_001,Casey Thomas,Grade 9,MATH_004,Mathematics,1,B,1,B,True,27,90.0,0.0,0.65474895
+LLM_001,Casey Thomas,Grade 9,MATH_005,Mathematics,1,B,1,B,True,27,90.0,0.0,0.65474895
+LLM_001,Casey Thomas,Grade 9,MATH_006,Mathematics,1,B,1,B,True,27,90.0,0.0,0.65474895
+LLM_001,Casey Thomas,Grade 9,MATH_007,Mathematics,0,A,0,A,True,27,90.0,0.0,0.65474895
+LLM_001,Casey Thomas,Grade 9,MATH_008,Mathematics,2,C,2,C,True,27,90.0,0.0,0.65474895
+LLM_001,Casey Thomas,Grade 9,MATH_009,Mathematics,0,A,1,B,False,27,90.0,0.0,0.65474895
+LLM_001,Casey Thomas,Grade 9,MATH_010,Mathematics,2,C,2,C,True,27,90.0,0.0,0.65474895
+LLM_001,Casey Thomas,Grade 9,VERB_001,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.65474895
+LLM_001,Casey Thomas,Grade 9,VERB_002,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.65474895
+LLM_001,Casey Thomas,Grade 9,VERB_003,Verbal Reasoning,2,C,2,C,True,27,90.0,0.0,0.65474895
+LLM_001,Casey Thomas,Grade 9,VERB_004,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.65474895
+LLM_001,Casey Thomas,Grade 9,VERB_005,Verbal Reasoning,3,D,1,B,False,27,90.0,0.0,0.65474895
+LLM_001,Casey Thomas,Grade 9,VERB_006,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.65474895
+LLM_001,Casey Thomas,Grade 9,VERB_007,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.65474895
+LLM_001,Casey Thomas,Grade 9,VERB_008,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.65474895
+LLM_001,Casey Thomas,Grade 9,VERB_009,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.65474895
+LLM_001,Casey Thomas,Grade 9,VERB_010,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.65474895
+LLM_001,Casey Thomas,Grade 9,SPAT_001,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.65474895
+LLM_001,Casey Thomas,Grade 9,SPAT_002,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.65474895
+LLM_001,Casey Thomas,Grade 9,SPAT_003,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.65474895
+LLM_001,Casey Thomas,Grade 9,SPAT_004,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.65474895
+LLM_001,Casey Thomas,Grade 9,SPAT_005,Spatial Reasoning,1,B,0,A,False,27,90.0,0.0,0.65474895
+LLM_001,Casey Thomas,Grade 9,SPAT_006,Spatial Reasoning,3,D,3,D,True,27,90.0,0.0,0.65474895
+LLM_001,Casey Thomas,Grade 9,SPAT_007,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.65474895
+LLM_001,Casey Thomas,Grade 9,SPAT_008,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.65474895
+LLM_001,Casey Thomas,Grade 9,SPAT_009,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.65474895
+LLM_001,Casey Thomas,Grade 9,SPAT_010,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.65474895
+LLM_002,Parker Perez,Grade 7,MATH_001,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.6530237333333333
+LLM_002,Parker Perez,Grade 7,MATH_002,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.6530237333333333
+LLM_002,Parker Perez,Grade 7,MATH_003,Mathematics,0,A,0,A,True,28,93.33333333333333,0.0,0.6530237333333333
+LLM_002,Parker Perez,Grade 7,MATH_004,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.6530237333333333
+LLM_002,Parker Perez,Grade 7,MATH_005,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.6530237333333333
+LLM_002,Parker Perez,Grade 7,MATH_006,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.6530237333333333
+LLM_002,Parker Perez,Grade 7,MATH_007,Mathematics,0,A,0,A,True,28,93.33333333333333,0.0,0.6530237333333333
+LLM_002,Parker Perez,Grade 7,MATH_008,Mathematics,2,C,2,C,True,28,93.33333333333333,0.0,0.6530237333333333
+LLM_002,Parker Perez,Grade 7,MATH_009,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.6530237333333333
+LLM_002,Parker Perez,Grade 7,MATH_010,Mathematics,2,C,2,C,True,28,93.33333333333333,0.0,0.6530237333333333
+LLM_002,Parker Perez,Grade 7,VERB_001,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6530237333333333
+LLM_002,Parker Perez,Grade 7,VERB_002,Verbal Reasoning,0,A,0,A,True,28,93.33333333333333,0.0,0.6530237333333333
+LLM_002,Parker Perez,Grade 7,VERB_003,Verbal Reasoning,2,C,2,C,True,28,93.33333333333333,0.0,0.6530237333333333
+LLM_002,Parker Perez,Grade 7,VERB_004,Verbal Reasoning,0,A,0,A,True,28,93.33333333333333,0.0,0.6530237333333333
+LLM_002,Parker Perez,Grade 7,VERB_005,Verbal Reasoning,3,D,1,B,False,28,93.33333333333333,0.0,0.6530237333333333
+LLM_002,Parker Perez,Grade 7,VERB_006,Verbal Reasoning,0,A,0,A,True,28,93.33333333333333,0.0,0.6530237333333333
+LLM_002,Parker Perez,Grade 7,VERB_007,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6530237333333333
+LLM_002,Parker Perez,Grade 7,VERB_008,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6530237333333333
+LLM_002,Parker Perez,Grade 7,VERB_009,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6530237333333333
+LLM_002,Parker Perez,Grade 7,VERB_010,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6530237333333333
+LLM_002,Parker Perez,Grade 7,SPAT_001,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6530237333333333
+LLM_002,Parker Perez,Grade 7,SPAT_002,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6530237333333333
+LLM_002,Parker Perez,Grade 7,SPAT_003,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6530237333333333
+LLM_002,Parker Perez,Grade 7,SPAT_004,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6530237333333333
+LLM_002,Parker Perez,Grade 7,SPAT_005,Spatial Reasoning,1,B,0,A,False,28,93.33333333333333,0.0,0.6530237333333333
+LLM_002,Parker Perez,Grade 7,SPAT_006,Spatial Reasoning,3,D,3,D,True,28,93.33333333333333,0.0,0.6530237333333333
+LLM_002,Parker Perez,Grade 7,SPAT_007,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6530237333333333
+LLM_002,Parker Perez,Grade 7,SPAT_008,Spatial Reasoning,2,C,2,C,True,28,93.33333333333333,0.0,0.6530237333333333
+LLM_002,Parker Perez,Grade 7,SPAT_009,Spatial Reasoning,2,C,2,C,True,28,93.33333333333333,0.0,0.6530237333333333
+LLM_002,Parker Perez,Grade 7,SPAT_010,Spatial Reasoning,2,C,2,C,True,28,93.33333333333333,0.0,0.6530237333333333
+LLM_003,Taylor Anderson,Grade 7,MATH_001,Mathematics,1,B,1,B,True,27,90.0,0.0,0.7680551666666666
+LLM_003,Taylor Anderson,Grade 7,MATH_002,Mathematics,1,B,1,B,True,27,90.0,0.0,0.7680551666666666
+LLM_003,Taylor Anderson,Grade 7,MATH_003,Mathematics,0,A,0,A,True,27,90.0,0.0,0.7680551666666666
+LLM_003,Taylor Anderson,Grade 7,MATH_004,Mathematics,1,B,1,B,True,27,90.0,0.0,0.7680551666666666
+LLM_003,Taylor Anderson,Grade 7,MATH_005,Mathematics,1,B,1,B,True,27,90.0,0.0,0.7680551666666666
+LLM_003,Taylor Anderson,Grade 7,MATH_006,Mathematics,1,B,1,B,True,27,90.0,0.0,0.7680551666666666
+LLM_003,Taylor Anderson,Grade 7,MATH_007,Mathematics,0,A,0,A,True,27,90.0,0.0,0.7680551666666666
+LLM_003,Taylor Anderson,Grade 7,MATH_008,Mathematics,2,C,2,C,True,27,90.0,0.0,0.7680551666666666
+LLM_003,Taylor Anderson,Grade 7,MATH_009,Mathematics,1,B,1,B,True,27,90.0,0.0,0.7680551666666666
+LLM_003,Taylor Anderson,Grade 7,MATH_010,Mathematics,2,C,2,C,True,27,90.0,0.0,0.7680551666666666
+LLM_003,Taylor Anderson,Grade 7,VERB_001,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.7680551666666666
+LLM_003,Taylor Anderson,Grade 7,VERB_002,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.7680551666666666
+LLM_003,Taylor Anderson,Grade 7,VERB_003,Verbal Reasoning,2,C,2,C,True,27,90.0,0.0,0.7680551666666666
+LLM_003,Taylor Anderson,Grade 7,VERB_004,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.7680551666666666
+LLM_003,Taylor Anderson,Grade 7,VERB_005,Verbal Reasoning,3,D,1,B,False,27,90.0,0.0,0.7680551666666666
+LLM_003,Taylor Anderson,Grade 7,VERB_006,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.7680551666666666
+LLM_003,Taylor Anderson,Grade 7,VERB_007,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.7680551666666666
+LLM_003,Taylor Anderson,Grade 7,VERB_008,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.7680551666666666
+LLM_003,Taylor Anderson,Grade 7,VERB_009,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.7680551666666666
+LLM_003,Taylor Anderson,Grade 7,VERB_010,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.7680551666666666
+LLM_003,Taylor Anderson,Grade 7,SPAT_001,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.7680551666666666
+LLM_003,Taylor Anderson,Grade 7,SPAT_002,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.7680551666666666
+LLM_003,Taylor Anderson,Grade 7,SPAT_003,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.7680551666666666
+LLM_003,Taylor Anderson,Grade 7,SPAT_004,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.7680551666666666
+LLM_003,Taylor Anderson,Grade 7,SPAT_005,Spatial Reasoning,1,B,0,A,False,27,90.0,0.0,0.7680551666666666
+LLM_003,Taylor Anderson,Grade 7,SPAT_006,Spatial Reasoning,3,D,3,D,True,27,90.0,0.0,0.7680551666666666
+LLM_003,Taylor Anderson,Grade 7,SPAT_007,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.7680551666666666
+LLM_003,Taylor Anderson,Grade 7,SPAT_008,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.7680551666666666
+LLM_003,Taylor Anderson,Grade 7,SPAT_009,Spatial Reasoning,3,D,2,C,False,27,90.0,0.0,0.7680551666666666
+LLM_003,Taylor Anderson,Grade 7,SPAT_010,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.7680551666666666
+LLM_004,River Davis,Grade 7,MATH_001,Mathematics,1,B,1,B,True,14,46.666666666666664,0.0,1.0207357833333333
+LLM_004,River Davis,Grade 7,MATH_002,Mathematics,0,A,1,B,False,14,46.666666666666664,0.0,1.0207357833333333
+LLM_004,River Davis,Grade 7,MATH_003,Mathematics,3,D,0,A,False,14,46.666666666666664,0.0,1.0207357833333333
+LLM_004,River Davis,Grade 7,MATH_004,Mathematics,1,B,1,B,True,14,46.666666666666664,0.0,1.0207357833333333
+LLM_004,River Davis,Grade 7,MATH_005,Mathematics,1,B,1,B,True,14,46.666666666666664,0.0,1.0207357833333333
+LLM_004,River Davis,Grade 7,MATH_006,Mathematics,0,A,1,B,False,14,46.666666666666664,0.0,1.0207357833333333
+LLM_004,River Davis,Grade 7,MATH_007,Mathematics,1,B,0,A,False,14,46.666666666666664,0.0,1.0207357833333333
+LLM_004,River Davis,Grade 7,MATH_008,Mathematics,2,C,2,C,True,14,46.666666666666664,0.0,1.0207357833333333
+LLM_004,River Davis,Grade 7,MATH_009,Mathematics,1,B,1,B,True,14,46.666666666666664,0.0,1.0207357833333333
+LLM_004,River Davis,Grade 7,MATH_010,Mathematics,0,A,2,C,False,14,46.666666666666664,0.0,1.0207357833333333
+LLM_004,River Davis,Grade 7,VERB_001,Verbal Reasoning,3,D,1,B,False,14,46.666666666666664,0.0,1.0207357833333333
+LLM_004,River Davis,Grade 7,VERB_002,Verbal Reasoning,0,A,0,A,True,14,46.666666666666664,0.0,1.0207357833333333
+LLM_004,River Davis,Grade 7,VERB_003,Verbal Reasoning,2,C,2,C,True,14,46.666666666666664,0.0,1.0207357833333333
+LLM_004,River Davis,Grade 7,VERB_004,Verbal Reasoning,3,D,0,A,False,14,46.666666666666664,0.0,1.0207357833333333
+LLM_004,River Davis,Grade 7,VERB_005,Verbal Reasoning,3,D,1,B,False,14,46.666666666666664,0.0,1.0207357833333333
+LLM_004,River Davis,Grade 7,VERB_006,Verbal Reasoning,0,A,0,A,True,14,46.666666666666664,0.0,1.0207357833333333
+LLM_004,River Davis,Grade 7,VERB_007,Verbal Reasoning,3,D,1,B,False,14,46.666666666666664,0.0,1.0207357833333333
+LLM_004,River Davis,Grade 7,VERB_008,Verbal Reasoning,1,B,1,B,True,14,46.666666666666664,0.0,1.0207357833333333
+LLM_004,River Davis,Grade 7,VERB_009,Verbal Reasoning,0,A,1,B,False,14,46.666666666666664,0.0,1.0207357833333333
+LLM_004,River Davis,Grade 7,VERB_010,Verbal Reasoning,0,A,1,B,False,14,46.666666666666664,0.0,1.0207357833333333
+LLM_004,River Davis,Grade 7,SPAT_001,Spatial Reasoning,1,B,1,B,True,14,46.666666666666664,0.0,1.0207357833333333
+LLM_004,River Davis,Grade 7,SPAT_002,Spatial Reasoning,0,A,1,B,False,14,46.666666666666664,0.0,1.0207357833333333
+LLM_004,River Davis,Grade 7,SPAT_003,Spatial Reasoning,0,A,1,B,False,14,46.666666666666664,0.0,1.0207357833333333
+LLM_004,River Davis,Grade 7,SPAT_004,Spatial Reasoning,0,A,1,B,False,14,46.666666666666664,0.0,1.0207357833333333
+LLM_004,River Davis,Grade 7,SPAT_005,Spatial Reasoning,3,D,0,A,False,14,46.666666666666664,0.0,1.0207357833333333
+LLM_004,River Davis,Grade 7,SPAT_006,Spatial Reasoning,3,D,3,D,True,14,46.666666666666664,0.0,1.0207357833333333
+LLM_004,River Davis,Grade 7,SPAT_007,Spatial Reasoning,1,B,1,B,True,14,46.666666666666664,0.0,1.0207357833333333
+LLM_004,River Davis,Grade 7,SPAT_008,Spatial Reasoning,2,C,2,C,True,14,46.666666666666664,0.0,1.0207357833333333
+LLM_004,River Davis,Grade 7,SPAT_009,Spatial Reasoning,3,D,2,C,False,14,46.666666666666664,0.0,1.0207357833333333
+LLM_004,River Davis,Grade 7,SPAT_010,Spatial Reasoning,2,C,2,C,True,14,46.666666666666664,0.0,1.0207357833333333
+LLM_005,Riley Thompson,Grade 8,MATH_001,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.7033610666666666
+LLM_005,Riley Thompson,Grade 8,MATH_002,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.7033610666666666
+LLM_005,Riley Thompson,Grade 8,MATH_003,Mathematics,0,A,0,A,True,28,93.33333333333333,0.0,0.7033610666666666
+LLM_005,Riley Thompson,Grade 8,MATH_004,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.7033610666666666
+LLM_005,Riley Thompson,Grade 8,MATH_005,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.7033610666666666
+LLM_005,Riley Thompson,Grade 8,MATH_006,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.7033610666666666
+LLM_005,Riley Thompson,Grade 8,MATH_007,Mathematics,0,A,0,A,True,28,93.33333333333333,0.0,0.7033610666666666
+LLM_005,Riley Thompson,Grade 8,MATH_008,Mathematics,2,C,2,C,True,28,93.33333333333333,0.0,0.7033610666666666
+LLM_005,Riley Thompson,Grade 8,MATH_009,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.7033610666666666
+LLM_005,Riley Thompson,Grade 8,MATH_010,Mathematics,2,C,2,C,True,28,93.33333333333333,0.0,0.7033610666666666
+LLM_005,Riley Thompson,Grade 8,VERB_001,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.7033610666666666
+LLM_005,Riley Thompson,Grade 8,VERB_002,Verbal Reasoning,0,A,0,A,True,28,93.33333333333333,0.0,0.7033610666666666
+LLM_005,Riley Thompson,Grade 8,VERB_003,Verbal Reasoning,2,C,2,C,True,28,93.33333333333333,0.0,0.7033610666666666
+LLM_005,Riley Thompson,Grade 8,VERB_004,Verbal Reasoning,0,A,0,A,True,28,93.33333333333333,0.0,0.7033610666666666
+LLM_005,Riley Thompson,Grade 8,VERB_005,Verbal Reasoning,3,D,1,B,False,28,93.33333333333333,0.0,0.7033610666666666
+LLM_005,Riley Thompson,Grade 8,VERB_006,Verbal Reasoning,0,A,0,A,True,28,93.33333333333333,0.0,0.7033610666666666
+LLM_005,Riley Thompson,Grade 8,VERB_007,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.7033610666666666
+LLM_005,Riley Thompson,Grade 8,VERB_008,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.7033610666666666
+LLM_005,Riley Thompson,Grade 8,VERB_009,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.7033610666666666
+LLM_005,Riley Thompson,Grade 8,VERB_010,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.7033610666666666
+LLM_005,Riley Thompson,Grade 8,SPAT_001,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.7033610666666666
+LLM_005,Riley Thompson,Grade 8,SPAT_002,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.7033610666666666
+LLM_005,Riley Thompson,Grade 8,SPAT_003,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.7033610666666666
+LLM_005,Riley Thompson,Grade 8,SPAT_004,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.7033610666666666
+LLM_005,Riley Thompson,Grade 8,SPAT_005,Spatial Reasoning,1,B,0,A,False,28,93.33333333333333,0.0,0.7033610666666666
+LLM_005,Riley Thompson,Grade 8,SPAT_006,Spatial Reasoning,3,D,3,D,True,28,93.33333333333333,0.0,0.7033610666666666
+LLM_005,Riley Thompson,Grade 8,SPAT_007,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.7033610666666666
+LLM_005,Riley Thompson,Grade 8,SPAT_008,Spatial Reasoning,2,C,2,C,True,28,93.33333333333333,0.0,0.7033610666666666
+LLM_005,Riley Thompson,Grade 8,SPAT_009,Spatial Reasoning,2,C,2,C,True,28,93.33333333333333,0.0,0.7033610666666666
+LLM_005,Riley Thompson,Grade 8,SPAT_010,Spatial Reasoning,2,C,2,C,True,28,93.33333333333333,0.0,0.7033610666666666
+LLM_006,Devon Martin,Grade 8,MATH_001,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.6454583833333333
+LLM_006,Devon Martin,Grade 8,MATH_002,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.6454583833333333
+LLM_006,Devon Martin,Grade 8,MATH_003,Mathematics,0,A,0,A,True,28,93.33333333333333,0.0,0.6454583833333333
+LLM_006,Devon Martin,Grade 8,MATH_004,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.6454583833333333
+LLM_006,Devon Martin,Grade 8,MATH_005,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.6454583833333333
+LLM_006,Devon Martin,Grade 8,MATH_006,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.6454583833333333
+LLM_006,Devon Martin,Grade 8,MATH_007,Mathematics,0,A,0,A,True,28,93.33333333333333,0.0,0.6454583833333333
+LLM_006,Devon Martin,Grade 8,MATH_008,Mathematics,2,C,2,C,True,28,93.33333333333333,0.0,0.6454583833333333
+LLM_006,Devon Martin,Grade 8,MATH_009,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.6454583833333333
+LLM_006,Devon Martin,Grade 8,MATH_010,Mathematics,2,C,2,C,True,28,93.33333333333333,0.0,0.6454583833333333
+LLM_006,Devon Martin,Grade 8,VERB_001,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6454583833333333
+LLM_006,Devon Martin,Grade 8,VERB_002,Verbal Reasoning,0,A,0,A,True,28,93.33333333333333,0.0,0.6454583833333333
+LLM_006,Devon Martin,Grade 8,VERB_003,Verbal Reasoning,2,C,2,C,True,28,93.33333333333333,0.0,0.6454583833333333
+LLM_006,Devon Martin,Grade 8,VERB_004,Verbal Reasoning,0,A,0,A,True,28,93.33333333333333,0.0,0.6454583833333333
+LLM_006,Devon Martin,Grade 8,VERB_005,Verbal Reasoning,3,D,1,B,False,28,93.33333333333333,0.0,0.6454583833333333
+LLM_006,Devon Martin,Grade 8,VERB_006,Verbal Reasoning,0,A,0,A,True,28,93.33333333333333,0.0,0.6454583833333333
+LLM_006,Devon Martin,Grade 8,VERB_007,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6454583833333333
+LLM_006,Devon Martin,Grade 8,VERB_008,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6454583833333333
+LLM_006,Devon Martin,Grade 8,VERB_009,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6454583833333333
+LLM_006,Devon Martin,Grade 8,VERB_010,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6454583833333333
+LLM_006,Devon Martin,Grade 8,SPAT_001,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6454583833333333
+LLM_006,Devon Martin,Grade 8,SPAT_002,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6454583833333333
+LLM_006,Devon Martin,Grade 8,SPAT_003,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6454583833333333
+LLM_006,Devon Martin,Grade 8,SPAT_004,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6454583833333333
+LLM_006,Devon Martin,Grade 8,SPAT_005,Spatial Reasoning,1,B,0,A,False,28,93.33333333333333,0.0,0.6454583833333333
+LLM_006,Devon Martin,Grade 8,SPAT_006,Spatial Reasoning,3,D,3,D,True,28,93.33333333333333,0.0,0.6454583833333333
+LLM_006,Devon Martin,Grade 8,SPAT_007,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6454583833333333
+LLM_006,Devon Martin,Grade 8,SPAT_008,Spatial Reasoning,2,C,2,C,True,28,93.33333333333333,0.0,0.6454583833333333
+LLM_006,Devon Martin,Grade 8,SPAT_009,Spatial Reasoning,2,C,2,C,True,28,93.33333333333333,0.0,0.6454583833333333
+LLM_006,Devon Martin,Grade 8,SPAT_010,Spatial Reasoning,2,C,2,C,True,28,93.33333333333333,0.0,0.6454583833333333
+LLM_007,Reese Anderson,Grade 8,MATH_001,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6906579166666666
+LLM_007,Reese Anderson,Grade 8,MATH_002,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6906579166666666
+LLM_007,Reese Anderson,Grade 8,MATH_003,Mathematics,0,A,0,A,True,27,90.0,0.0,0.6906579166666666
+LLM_007,Reese Anderson,Grade 8,MATH_004,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6906579166666666
+LLM_007,Reese Anderson,Grade 8,MATH_005,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6906579166666666
+LLM_007,Reese Anderson,Grade 8,MATH_006,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6906579166666666
+LLM_007,Reese Anderson,Grade 8,MATH_007,Mathematics,0,A,0,A,True,27,90.0,0.0,0.6906579166666666
+LLM_007,Reese Anderson,Grade 8,MATH_008,Mathematics,2,C,2,C,True,27,90.0,0.0,0.6906579166666666
+LLM_007,Reese Anderson,Grade 8,MATH_009,Mathematics,0,A,1,B,False,27,90.0,0.0,0.6906579166666666
+LLM_007,Reese Anderson,Grade 8,MATH_010,Mathematics,2,C,2,C,True,27,90.0,0.0,0.6906579166666666
+LLM_007,Reese Anderson,Grade 8,VERB_001,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6906579166666666
+LLM_007,Reese Anderson,Grade 8,VERB_002,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.6906579166666666
+LLM_007,Reese Anderson,Grade 8,VERB_003,Verbal Reasoning,2,C,2,C,True,27,90.0,0.0,0.6906579166666666
+LLM_007,Reese Anderson,Grade 8,VERB_004,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.6906579166666666
+LLM_007,Reese Anderson,Grade 8,VERB_005,Verbal Reasoning,3,D,1,B,False,27,90.0,0.0,0.6906579166666666
+LLM_007,Reese Anderson,Grade 8,VERB_006,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.6906579166666666
+LLM_007,Reese Anderson,Grade 8,VERB_007,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6906579166666666
+LLM_007,Reese Anderson,Grade 8,VERB_008,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6906579166666666
+LLM_007,Reese Anderson,Grade 8,VERB_009,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6906579166666666
+LLM_007,Reese Anderson,Grade 8,VERB_010,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6906579166666666
+LLM_007,Reese Anderson,Grade 8,SPAT_001,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6906579166666666
+LLM_007,Reese Anderson,Grade 8,SPAT_002,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6906579166666666
+LLM_007,Reese Anderson,Grade 8,SPAT_003,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6906579166666666
+LLM_007,Reese Anderson,Grade 8,SPAT_004,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6906579166666666
+LLM_007,Reese Anderson,Grade 8,SPAT_005,Spatial Reasoning,1,B,0,A,False,27,90.0,0.0,0.6906579166666666
+LLM_007,Reese Anderson,Grade 8,SPAT_006,Spatial Reasoning,3,D,3,D,True,27,90.0,0.0,0.6906579166666666
+LLM_007,Reese Anderson,Grade 8,SPAT_007,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6906579166666666
+LLM_007,Reese Anderson,Grade 8,SPAT_008,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.6906579166666666
+LLM_007,Reese Anderson,Grade 8,SPAT_009,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.6906579166666666
+LLM_007,Reese Anderson,Grade 8,SPAT_010,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.6906579166666666
+LLM_008,Phoenix Taylor,Grade 8,MATH_001,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6646389666666667
+LLM_008,Phoenix Taylor,Grade 8,MATH_002,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6646389666666667
+LLM_008,Phoenix Taylor,Grade 8,MATH_003,Mathematics,0,A,0,A,True,27,90.0,0.0,0.6646389666666667
+LLM_008,Phoenix Taylor,Grade 8,MATH_004,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6646389666666667
+LLM_008,Phoenix Taylor,Grade 8,MATH_005,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6646389666666667
+LLM_008,Phoenix Taylor,Grade 8,MATH_006,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6646389666666667
+LLM_008,Phoenix Taylor,Grade 8,MATH_007,Mathematics,0,A,0,A,True,27,90.0,0.0,0.6646389666666667
+LLM_008,Phoenix Taylor,Grade 8,MATH_008,Mathematics,2,C,2,C,True,27,90.0,0.0,0.6646389666666667
+LLM_008,Phoenix Taylor,Grade 8,MATH_009,Mathematics,0,A,1,B,False,27,90.0,0.0,0.6646389666666667
+LLM_008,Phoenix Taylor,Grade 8,MATH_010,Mathematics,2,C,2,C,True,27,90.0,0.0,0.6646389666666667
+LLM_008,Phoenix Taylor,Grade 8,VERB_001,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6646389666666667
+LLM_008,Phoenix Taylor,Grade 8,VERB_002,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.6646389666666667
+LLM_008,Phoenix Taylor,Grade 8,VERB_003,Verbal Reasoning,2,C,2,C,True,27,90.0,0.0,0.6646389666666667
+LLM_008,Phoenix Taylor,Grade 8,VERB_004,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.6646389666666667
+LLM_008,Phoenix Taylor,Grade 8,VERB_005,Verbal Reasoning,3,D,1,B,False,27,90.0,0.0,0.6646389666666667
+LLM_008,Phoenix Taylor,Grade 8,VERB_006,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.6646389666666667
+LLM_008,Phoenix Taylor,Grade 8,VERB_007,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6646389666666667
+LLM_008,Phoenix Taylor,Grade 8,VERB_008,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6646389666666667
+LLM_008,Phoenix Taylor,Grade 8,VERB_009,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6646389666666667
+LLM_008,Phoenix Taylor,Grade 8,VERB_010,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6646389666666667
+LLM_008,Phoenix Taylor,Grade 8,SPAT_001,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6646389666666667
+LLM_008,Phoenix Taylor,Grade 8,SPAT_002,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6646389666666667
+LLM_008,Phoenix Taylor,Grade 8,SPAT_003,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6646389666666667
+LLM_008,Phoenix Taylor,Grade 8,SPAT_004,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6646389666666667
+LLM_008,Phoenix Taylor,Grade 8,SPAT_005,Spatial Reasoning,1,B,0,A,False,27,90.0,0.0,0.6646389666666667
+LLM_008,Phoenix Taylor,Grade 8,SPAT_006,Spatial Reasoning,3,D,3,D,True,27,90.0,0.0,0.6646389666666667
+LLM_008,Phoenix Taylor,Grade 8,SPAT_007,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6646389666666667
+LLM_008,Phoenix Taylor,Grade 8,SPAT_008,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.6646389666666667
+LLM_008,Phoenix Taylor,Grade 8,SPAT_009,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.6646389666666667
+LLM_008,Phoenix Taylor,Grade 8,SPAT_010,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.6646389666666667
+LLM_009,Avery Jones,Grade 8,MATH_001,Mathematics,2,C,1,B,False,13,43.333333333333336,0.0,0.85968025
+LLM_009,Avery Jones,Grade 8,MATH_002,Mathematics,1,B,1,B,True,13,43.333333333333336,0.0,0.85968025
+LLM_009,Avery Jones,Grade 8,MATH_003,Mathematics,1,B,0,A,False,13,43.333333333333336,0.0,0.85968025
+LLM_009,Avery Jones,Grade 8,MATH_004,Mathematics,1,B,1,B,True,13,43.333333333333336,0.0,0.85968025
+LLM_009,Avery Jones,Grade 8,MATH_005,Mathematics,1,B,1,B,True,13,43.333333333333336,0.0,0.85968025
+LLM_009,Avery Jones,Grade 8,MATH_006,Mathematics,0,A,1,B,False,13,43.333333333333336,0.0,0.85968025
+LLM_009,Avery Jones,Grade 8,MATH_007,Mathematics,1,B,0,A,False,13,43.333333333333336,0.0,0.85968025
+LLM_009,Avery Jones,Grade 8,MATH_008,Mathematics,2,C,2,C,True,13,43.333333333333336,0.0,0.85968025
+LLM_009,Avery Jones,Grade 8,MATH_009,Mathematics,1,B,1,B,True,13,43.333333333333336,0.0,0.85968025
+LLM_009,Avery Jones,Grade 8,MATH_010,Mathematics,0,A,2,C,False,13,43.333333333333336,0.0,0.85968025
+LLM_009,Avery Jones,Grade 8,VERB_001,Verbal Reasoning,3,D,1,B,False,13,43.333333333333336,0.0,0.85968025
+LLM_009,Avery Jones,Grade 8,VERB_002,Verbal Reasoning,0,A,0,A,True,13,43.333333333333336,0.0,0.85968025
+LLM_009,Avery Jones,Grade 8,VERB_003,Verbal Reasoning,2,C,2,C,True,13,43.333333333333336,0.0,0.85968025
+LLM_009,Avery Jones,Grade 8,VERB_004,Verbal Reasoning,3,D,0,A,False,13,43.333333333333336,0.0,0.85968025
+LLM_009,Avery Jones,Grade 8,VERB_005,Verbal Reasoning,3,D,1,B,False,13,43.333333333333336,0.0,0.85968025
+LLM_009,Avery Jones,Grade 8,VERB_006,Verbal Reasoning,0,A,0,A,True,13,43.333333333333336,0.0,0.85968025
+LLM_009,Avery Jones,Grade 8,VERB_007,Verbal Reasoning,3,D,1,B,False,13,43.333333333333336,0.0,0.85968025
+LLM_009,Avery Jones,Grade 8,VERB_008,Verbal Reasoning,3,D,1,B,False,13,43.333333333333336,0.0,0.85968025
+LLM_009,Avery Jones,Grade 8,VERB_009,Verbal Reasoning,0,A,1,B,False,13,43.333333333333336,0.0,0.85968025
+LLM_009,Avery Jones,Grade 8,VERB_010,Verbal Reasoning,0,A,1,B,False,13,43.333333333333336,0.0,0.85968025
+LLM_009,Avery Jones,Grade 8,SPAT_001,Spatial Reasoning,1,B,1,B,True,13,43.333333333333336,0.0,0.85968025
+LLM_009,Avery Jones,Grade 8,SPAT_002,Spatial Reasoning,0,A,1,B,False,13,43.333333333333336,0.0,0.85968025
+LLM_009,Avery Jones,Grade 8,SPAT_003,Spatial Reasoning,1,B,1,B,True,13,43.333333333333336,0.0,0.85968025
+LLM_009,Avery Jones,Grade 8,SPAT_004,Spatial Reasoning,0,A,1,B,False,13,43.333333333333336,0.0,0.85968025
+LLM_009,Avery Jones,Grade 8,SPAT_005,Spatial Reasoning,3,D,0,A,False,13,43.333333333333336,0.0,0.85968025
+LLM_009,Avery Jones,Grade 8,SPAT_006,Spatial Reasoning,3,D,3,D,True,13,43.333333333333336,0.0,0.85968025
+LLM_009,Avery Jones,Grade 8,SPAT_007,Spatial Reasoning,1,B,1,B,True,13,43.333333333333336,0.0,0.85968025
+LLM_009,Avery Jones,Grade 8,SPAT_008,Spatial Reasoning,2,C,2,C,True,13,43.333333333333336,0.0,0.85968025
+LLM_009,Avery Jones,Grade 8,SPAT_009,Spatial Reasoning,3,D,2,C,False,13,43.333333333333336,0.0,0.85968025
+LLM_009,Avery Jones,Grade 8,SPAT_010,Spatial Reasoning,0,A,2,C,False,13,43.333333333333336,0.0,0.85968025
+LLM_010,Jamie Lopez,Grade 7,MATH_001,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.63188325
+LLM_010,Jamie Lopez,Grade 7,MATH_002,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.63188325
+LLM_010,Jamie Lopez,Grade 7,MATH_003,Mathematics,0,A,0,A,True,28,93.33333333333333,0.0,0.63188325
+LLM_010,Jamie Lopez,Grade 7,MATH_004,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.63188325
+LLM_010,Jamie Lopez,Grade 7,MATH_005,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.63188325
+LLM_010,Jamie Lopez,Grade 7,MATH_006,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.63188325
+LLM_010,Jamie Lopez,Grade 7,MATH_007,Mathematics,0,A,0,A,True,28,93.33333333333333,0.0,0.63188325
+LLM_010,Jamie Lopez,Grade 7,MATH_008,Mathematics,2,C,2,C,True,28,93.33333333333333,0.0,0.63188325
+LLM_010,Jamie Lopez,Grade 7,MATH_009,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.63188325
+LLM_010,Jamie Lopez,Grade 7,MATH_010,Mathematics,2,C,2,C,True,28,93.33333333333333,0.0,0.63188325
+LLM_010,Jamie Lopez,Grade 7,VERB_001,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.63188325
+LLM_010,Jamie Lopez,Grade 7,VERB_002,Verbal Reasoning,0,A,0,A,True,28,93.33333333333333,0.0,0.63188325
+LLM_010,Jamie Lopez,Grade 7,VERB_003,Verbal Reasoning,2,C,2,C,True,28,93.33333333333333,0.0,0.63188325
+LLM_010,Jamie Lopez,Grade 7,VERB_004,Verbal Reasoning,0,A,0,A,True,28,93.33333333333333,0.0,0.63188325
+LLM_010,Jamie Lopez,Grade 7,VERB_005,Verbal Reasoning,3,D,1,B,False,28,93.33333333333333,0.0,0.63188325
+LLM_010,Jamie Lopez,Grade 7,VERB_006,Verbal Reasoning,0,A,0,A,True,28,93.33333333333333,0.0,0.63188325
+LLM_010,Jamie Lopez,Grade 7,VERB_007,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.63188325
+LLM_010,Jamie Lopez,Grade 7,VERB_008,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.63188325
+LLM_010,Jamie Lopez,Grade 7,VERB_009,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.63188325
+LLM_010,Jamie Lopez,Grade 7,VERB_010,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.63188325
+LLM_010,Jamie Lopez,Grade 7,SPAT_001,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.63188325
+LLM_010,Jamie Lopez,Grade 7,SPAT_002,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.63188325
+LLM_010,Jamie Lopez,Grade 7,SPAT_003,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.63188325
+LLM_010,Jamie Lopez,Grade 7,SPAT_004,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.63188325
+LLM_010,Jamie Lopez,Grade 7,SPAT_005,Spatial Reasoning,1,B,0,A,False,28,93.33333333333333,0.0,0.63188325
+LLM_010,Jamie Lopez,Grade 7,SPAT_006,Spatial Reasoning,3,D,3,D,True,28,93.33333333333333,0.0,0.63188325
+LLM_010,Jamie Lopez,Grade 7,SPAT_007,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.63188325
+LLM_010,Jamie Lopez,Grade 7,SPAT_008,Spatial Reasoning,2,C,2,C,True,28,93.33333333333333,0.0,0.63188325
+LLM_010,Jamie Lopez,Grade 7,SPAT_009,Spatial Reasoning,2,C,2,C,True,28,93.33333333333333,0.0,0.63188325
+LLM_010,Jamie Lopez,Grade 7,SPAT_010,Spatial Reasoning,2,C,2,C,True,28,93.33333333333333,0.0,0.63188325
+LLM_011,Jamie Moore,Grade 8,MATH_001,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6932644666666667
+LLM_011,Jamie Moore,Grade 8,MATH_002,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6932644666666667
+LLM_011,Jamie Moore,Grade 8,MATH_003,Mathematics,0,A,0,A,True,27,90.0,0.0,0.6932644666666667
+LLM_011,Jamie Moore,Grade 8,MATH_004,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6932644666666667
+LLM_011,Jamie Moore,Grade 8,MATH_005,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6932644666666667
+LLM_011,Jamie Moore,Grade 8,MATH_006,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6932644666666667
+LLM_011,Jamie Moore,Grade 8,MATH_007,Mathematics,0,A,0,A,True,27,90.0,0.0,0.6932644666666667
+LLM_011,Jamie Moore,Grade 8,MATH_008,Mathematics,2,C,2,C,True,27,90.0,0.0,0.6932644666666667
+LLM_011,Jamie Moore,Grade 8,MATH_009,Mathematics,0,A,1,B,False,27,90.0,0.0,0.6932644666666667
+LLM_011,Jamie Moore,Grade 8,MATH_010,Mathematics,2,C,2,C,True,27,90.0,0.0,0.6932644666666667
+LLM_011,Jamie Moore,Grade 8,VERB_001,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6932644666666667
+LLM_011,Jamie Moore,Grade 8,VERB_002,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.6932644666666667
+LLM_011,Jamie Moore,Grade 8,VERB_003,Verbal Reasoning,2,C,2,C,True,27,90.0,0.0,0.6932644666666667
+LLM_011,Jamie Moore,Grade 8,VERB_004,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.6932644666666667
+LLM_011,Jamie Moore,Grade 8,VERB_005,Verbal Reasoning,3,D,1,B,False,27,90.0,0.0,0.6932644666666667
+LLM_011,Jamie Moore,Grade 8,VERB_006,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.6932644666666667
+LLM_011,Jamie Moore,Grade 8,VERB_007,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6932644666666667
+LLM_011,Jamie Moore,Grade 8,VERB_008,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6932644666666667
+LLM_011,Jamie Moore,Grade 8,VERB_009,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6932644666666667
+LLM_011,Jamie Moore,Grade 8,VERB_010,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6932644666666667
+LLM_011,Jamie Moore,Grade 8,SPAT_001,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6932644666666667
+LLM_011,Jamie Moore,Grade 8,SPAT_002,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6932644666666667
+LLM_011,Jamie Moore,Grade 8,SPAT_003,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6932644666666667
+LLM_011,Jamie Moore,Grade 8,SPAT_004,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6932644666666667
+LLM_011,Jamie Moore,Grade 8,SPAT_005,Spatial Reasoning,1,B,0,A,False,27,90.0,0.0,0.6932644666666667
+LLM_011,Jamie Moore,Grade 8,SPAT_006,Spatial Reasoning,3,D,3,D,True,27,90.0,0.0,0.6932644666666667
+LLM_011,Jamie Moore,Grade 8,SPAT_007,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6932644666666667
+LLM_011,Jamie Moore,Grade 8,SPAT_008,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.6932644666666667
+LLM_011,Jamie Moore,Grade 8,SPAT_009,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.6932644666666667
+LLM_011,Jamie Moore,Grade 8,SPAT_010,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.6932644666666667
+LLM_012,Avery Garcia,Grade 7,MATH_001,Mathematics,1,B,1,B,True,15,50.0,0.0,1.0461485666666668
+LLM_012,Avery Garcia,Grade 7,MATH_002,Mathematics,1,B,1,B,True,15,50.0,0.0,1.0461485666666668
+LLM_012,Avery Garcia,Grade 7,MATH_003,Mathematics,3,D,0,A,False,15,50.0,0.0,1.0461485666666668
+LLM_012,Avery Garcia,Grade 7,MATH_004,Mathematics,1,B,1,B,True,15,50.0,0.0,1.0461485666666668
+LLM_012,Avery Garcia,Grade 7,MATH_005,Mathematics,1,B,1,B,True,15,50.0,0.0,1.0461485666666668
+LLM_012,Avery Garcia,Grade 7,MATH_006,Mathematics,0,A,1,B,False,15,50.0,0.0,1.0461485666666668
+LLM_012,Avery Garcia,Grade 7,MATH_007,Mathematics,1,B,0,A,False,15,50.0,0.0,1.0461485666666668
+LLM_012,Avery Garcia,Grade 7,MATH_008,Mathematics,2,C,2,C,True,15,50.0,0.0,1.0461485666666668
+LLM_012,Avery Garcia,Grade 7,MATH_009,Mathematics,1,B,1,B,True,15,50.0,0.0,1.0461485666666668
+LLM_012,Avery Garcia,Grade 7,MATH_010,Mathematics,0,A,2,C,False,15,50.0,0.0,1.0461485666666668
+LLM_012,Avery Garcia,Grade 7,VERB_001,Verbal Reasoning,3,D,1,B,False,15,50.0,0.0,1.0461485666666668
+LLM_012,Avery Garcia,Grade 7,VERB_002,Verbal Reasoning,0,A,0,A,True,15,50.0,0.0,1.0461485666666668
+LLM_012,Avery Garcia,Grade 7,VERB_003,Verbal Reasoning,2,C,2,C,True,15,50.0,0.0,1.0461485666666668
+LLM_012,Avery Garcia,Grade 7,VERB_004,Verbal Reasoning,3,D,0,A,False,15,50.0,0.0,1.0461485666666668
+LLM_012,Avery Garcia,Grade 7,VERB_005,Verbal Reasoning,3,D,1,B,False,15,50.0,0.0,1.0461485666666668
+LLM_012,Avery Garcia,Grade 7,VERB_006,Verbal Reasoning,0,A,0,A,True,15,50.0,0.0,1.0461485666666668
+LLM_012,Avery Garcia,Grade 7,VERB_007,Verbal Reasoning,3,D,1,B,False,15,50.0,0.0,1.0461485666666668
+LLM_012,Avery Garcia,Grade 7,VERB_008,Verbal Reasoning,3,D,1,B,False,15,50.0,0.0,1.0461485666666668
+LLM_012,Avery Garcia,Grade 7,VERB_009,Verbal Reasoning,0,A,1,B,False,15,50.0,0.0,1.0461485666666668
+LLM_012,Avery Garcia,Grade 7,VERB_010,Verbal Reasoning,0,A,1,B,False,15,50.0,0.0,1.0461485666666668
+LLM_012,Avery Garcia,Grade 7,SPAT_001,Spatial Reasoning,1,B,1,B,True,15,50.0,0.0,1.0461485666666668
+LLM_012,Avery Garcia,Grade 7,SPAT_002,Spatial Reasoning,0,A,1,B,False,15,50.0,0.0,1.0461485666666668
+LLM_012,Avery Garcia,Grade 7,SPAT_003,Spatial Reasoning,1,B,1,B,True,15,50.0,0.0,1.0461485666666668
+LLM_012,Avery Garcia,Grade 7,SPAT_004,Spatial Reasoning,0,A,1,B,False,15,50.0,0.0,1.0461485666666668
+LLM_012,Avery Garcia,Grade 7,SPAT_005,Spatial Reasoning,3,D,0,A,False,15,50.0,0.0,1.0461485666666668
+LLM_012,Avery Garcia,Grade 7,SPAT_006,Spatial Reasoning,3,D,3,D,True,15,50.0,0.0,1.0461485666666668
+LLM_012,Avery Garcia,Grade 7,SPAT_007,Spatial Reasoning,1,B,1,B,True,15,50.0,0.0,1.0461485666666668
+LLM_012,Avery Garcia,Grade 7,SPAT_008,Spatial Reasoning,2,C,2,C,True,15,50.0,0.0,1.0461485666666668
+LLM_012,Avery Garcia,Grade 7,SPAT_009,Spatial Reasoning,3,D,2,C,False,15,50.0,0.0,1.0461485666666668
+LLM_012,Avery Garcia,Grade 7,SPAT_010,Spatial Reasoning,2,C,2,C,True,15,50.0,0.0,1.0461485666666668
+LLM_013,Cameron Hernandez,Grade 8,MATH_001,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6072981666666667
+LLM_013,Cameron Hernandez,Grade 8,MATH_002,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6072981666666667
+LLM_013,Cameron Hernandez,Grade 8,MATH_003,Mathematics,0,A,0,A,True,27,90.0,0.0,0.6072981666666667
+LLM_013,Cameron Hernandez,Grade 8,MATH_004,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6072981666666667
+LLM_013,Cameron Hernandez,Grade 8,MATH_005,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6072981666666667
+LLM_013,Cameron Hernandez,Grade 8,MATH_006,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6072981666666667
+LLM_013,Cameron Hernandez,Grade 8,MATH_007,Mathematics,0,A,0,A,True,27,90.0,0.0,0.6072981666666667
+LLM_013,Cameron Hernandez,Grade 8,MATH_008,Mathematics,2,C,2,C,True,27,90.0,0.0,0.6072981666666667
+LLM_013,Cameron Hernandez,Grade 8,MATH_009,Mathematics,0,A,1,B,False,27,90.0,0.0,0.6072981666666667
+LLM_013,Cameron Hernandez,Grade 8,MATH_010,Mathematics,2,C,2,C,True,27,90.0,0.0,0.6072981666666667
+LLM_013,Cameron Hernandez,Grade 8,VERB_001,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6072981666666667
+LLM_013,Cameron Hernandez,Grade 8,VERB_002,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.6072981666666667
+LLM_013,Cameron Hernandez,Grade 8,VERB_003,Verbal Reasoning,2,C,2,C,True,27,90.0,0.0,0.6072981666666667
+LLM_013,Cameron Hernandez,Grade 8,VERB_004,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.6072981666666667
+LLM_013,Cameron Hernandez,Grade 8,VERB_005,Verbal Reasoning,3,D,1,B,False,27,90.0,0.0,0.6072981666666667
+LLM_013,Cameron Hernandez,Grade 8,VERB_006,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.6072981666666667
+LLM_013,Cameron Hernandez,Grade 8,VERB_007,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6072981666666667
+LLM_013,Cameron Hernandez,Grade 8,VERB_008,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6072981666666667
+LLM_013,Cameron Hernandez,Grade 8,VERB_009,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6072981666666667
+LLM_013,Cameron Hernandez,Grade 8,VERB_010,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6072981666666667
+LLM_013,Cameron Hernandez,Grade 8,SPAT_001,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6072981666666667
+LLM_013,Cameron Hernandez,Grade 8,SPAT_002,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6072981666666667
+LLM_013,Cameron Hernandez,Grade 8,SPAT_003,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6072981666666667
+LLM_013,Cameron Hernandez,Grade 8,SPAT_004,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6072981666666667
+LLM_013,Cameron Hernandez,Grade 8,SPAT_005,Spatial Reasoning,1,B,0,A,False,27,90.0,0.0,0.6072981666666667
+LLM_013,Cameron Hernandez,Grade 8,SPAT_006,Spatial Reasoning,3,D,3,D,True,27,90.0,0.0,0.6072981666666667
+LLM_013,Cameron Hernandez,Grade 8,SPAT_007,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6072981666666667
+LLM_013,Cameron Hernandez,Grade 8,SPAT_008,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.6072981666666667
+LLM_013,Cameron Hernandez,Grade 8,SPAT_009,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.6072981666666667
+LLM_013,Cameron Hernandez,Grade 8,SPAT_010,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.6072981666666667
+LLM_014,Reese Jones,Grade 9,MATH_001,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6883102333333333
+LLM_014,Reese Jones,Grade 9,MATH_002,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6883102333333333
+LLM_014,Reese Jones,Grade 9,MATH_003,Mathematics,0,A,0,A,True,27,90.0,0.0,0.6883102333333333
+LLM_014,Reese Jones,Grade 9,MATH_004,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6883102333333333
+LLM_014,Reese Jones,Grade 9,MATH_005,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6883102333333333
+LLM_014,Reese Jones,Grade 9,MATH_006,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6883102333333333
+LLM_014,Reese Jones,Grade 9,MATH_007,Mathematics,0,A,0,A,True,27,90.0,0.0,0.6883102333333333
+LLM_014,Reese Jones,Grade 9,MATH_008,Mathematics,2,C,2,C,True,27,90.0,0.0,0.6883102333333333
+LLM_014,Reese Jones,Grade 9,MATH_009,Mathematics,0,A,1,B,False,27,90.0,0.0,0.6883102333333333
+LLM_014,Reese Jones,Grade 9,MATH_010,Mathematics,2,C,2,C,True,27,90.0,0.0,0.6883102333333333
+LLM_014,Reese Jones,Grade 9,VERB_001,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6883102333333333
+LLM_014,Reese Jones,Grade 9,VERB_002,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.6883102333333333
+LLM_014,Reese Jones,Grade 9,VERB_003,Verbal Reasoning,2,C,2,C,True,27,90.0,0.0,0.6883102333333333
+LLM_014,Reese Jones,Grade 9,VERB_004,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.6883102333333333
+LLM_014,Reese Jones,Grade 9,VERB_005,Verbal Reasoning,3,D,1,B,False,27,90.0,0.0,0.6883102333333333
+LLM_014,Reese Jones,Grade 9,VERB_006,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.6883102333333333
+LLM_014,Reese Jones,Grade 9,VERB_007,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6883102333333333
+LLM_014,Reese Jones,Grade 9,VERB_008,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6883102333333333
+LLM_014,Reese Jones,Grade 9,VERB_009,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6883102333333333
+LLM_014,Reese Jones,Grade 9,VERB_010,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6883102333333333
+LLM_014,Reese Jones,Grade 9,SPAT_001,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6883102333333333
+LLM_014,Reese Jones,Grade 9,SPAT_002,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6883102333333333
+LLM_014,Reese Jones,Grade 9,SPAT_003,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6883102333333333
+LLM_014,Reese Jones,Grade 9,SPAT_004,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6883102333333333
+LLM_014,Reese Jones,Grade 9,SPAT_005,Spatial Reasoning,1,B,0,A,False,27,90.0,0.0,0.6883102333333333
+LLM_014,Reese Jones,Grade 9,SPAT_006,Spatial Reasoning,3,D,3,D,True,27,90.0,0.0,0.6883102333333333
+LLM_014,Reese Jones,Grade 9,SPAT_007,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6883102333333333
+LLM_014,Reese Jones,Grade 9,SPAT_008,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.6883102333333333
+LLM_014,Reese Jones,Grade 9,SPAT_009,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.6883102333333333
+LLM_014,Reese Jones,Grade 9,SPAT_010,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.6883102333333333
+LLM_015,Hayden Garcia,Grade 9,MATH_001,Mathematics,1,B,1,B,True,27,90.0,0.0,0.70429845
+LLM_015,Hayden Garcia,Grade 9,MATH_002,Mathematics,1,B,1,B,True,27,90.0,0.0,0.70429845
+LLM_015,Hayden Garcia,Grade 9,MATH_003,Mathematics,0,A,0,A,True,27,90.0,0.0,0.70429845
+LLM_015,Hayden Garcia,Grade 9,MATH_004,Mathematics,1,B,1,B,True,27,90.0,0.0,0.70429845
+LLM_015,Hayden Garcia,Grade 9,MATH_005,Mathematics,1,B,1,B,True,27,90.0,0.0,0.70429845
+LLM_015,Hayden Garcia,Grade 9,MATH_006,Mathematics,1,B,1,B,True,27,90.0,0.0,0.70429845
+LLM_015,Hayden Garcia,Grade 9,MATH_007,Mathematics,0,A,0,A,True,27,90.0,0.0,0.70429845
+LLM_015,Hayden Garcia,Grade 9,MATH_008,Mathematics,2,C,2,C,True,27,90.0,0.0,0.70429845
+LLM_015,Hayden Garcia,Grade 9,MATH_009,Mathematics,0,A,1,B,False,27,90.0,0.0,0.70429845
+LLM_015,Hayden Garcia,Grade 9,MATH_010,Mathematics,2,C,2,C,True,27,90.0,0.0,0.70429845
+LLM_015,Hayden Garcia,Grade 9,VERB_001,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.70429845
+LLM_015,Hayden Garcia,Grade 9,VERB_002,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.70429845
+LLM_015,Hayden Garcia,Grade 9,VERB_003,Verbal Reasoning,2,C,2,C,True,27,90.0,0.0,0.70429845
+LLM_015,Hayden Garcia,Grade 9,VERB_004,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.70429845
+LLM_015,Hayden Garcia,Grade 9,VERB_005,Verbal Reasoning,3,D,1,B,False,27,90.0,0.0,0.70429845
+LLM_015,Hayden Garcia,Grade 9,VERB_006,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.70429845
+LLM_015,Hayden Garcia,Grade 9,VERB_007,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.70429845
+LLM_015,Hayden Garcia,Grade 9,VERB_008,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.70429845
+LLM_015,Hayden Garcia,Grade 9,VERB_009,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.70429845
+LLM_015,Hayden Garcia,Grade 9,VERB_010,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.70429845
+LLM_015,Hayden Garcia,Grade 9,SPAT_001,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.70429845
+LLM_015,Hayden Garcia,Grade 9,SPAT_002,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.70429845
+LLM_015,Hayden Garcia,Grade 9,SPAT_003,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.70429845
+LLM_015,Hayden Garcia,Grade 9,SPAT_004,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.70429845
+LLM_015,Hayden Garcia,Grade 9,SPAT_005,Spatial Reasoning,1,B,0,A,False,27,90.0,0.0,0.70429845
+LLM_015,Hayden Garcia,Grade 9,SPAT_006,Spatial Reasoning,3,D,3,D,True,27,90.0,0.0,0.70429845
+LLM_015,Hayden Garcia,Grade 9,SPAT_007,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.70429845
+LLM_015,Hayden Garcia,Grade 9,SPAT_008,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.70429845
+LLM_015,Hayden Garcia,Grade 9,SPAT_009,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.70429845
+LLM_015,Hayden Garcia,Grade 9,SPAT_010,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.70429845
+LLM_016,Emery Gonzalez,Grade 7,MATH_001,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.7362753000000001
+LLM_016,Emery Gonzalez,Grade 7,MATH_002,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.7362753000000001
+LLM_016,Emery Gonzalez,Grade 7,MATH_003,Mathematics,0,A,0,A,True,28,93.33333333333333,0.0,0.7362753000000001
+LLM_016,Emery Gonzalez,Grade 7,MATH_004,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.7362753000000001
+LLM_016,Emery Gonzalez,Grade 7,MATH_005,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.7362753000000001
+LLM_016,Emery Gonzalez,Grade 7,MATH_006,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.7362753000000001
+LLM_016,Emery Gonzalez,Grade 7,MATH_007,Mathematics,0,A,0,A,True,28,93.33333333333333,0.0,0.7362753000000001
+LLM_016,Emery Gonzalez,Grade 7,MATH_008,Mathematics,2,C,2,C,True,28,93.33333333333333,0.0,0.7362753000000001
+LLM_016,Emery Gonzalez,Grade 7,MATH_009,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.7362753000000001
+LLM_016,Emery Gonzalez,Grade 7,MATH_010,Mathematics,2,C,2,C,True,28,93.33333333333333,0.0,0.7362753000000001
+LLM_016,Emery Gonzalez,Grade 7,VERB_001,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.7362753000000001
+LLM_016,Emery Gonzalez,Grade 7,VERB_002,Verbal Reasoning,0,A,0,A,True,28,93.33333333333333,0.0,0.7362753000000001
+LLM_016,Emery Gonzalez,Grade 7,VERB_003,Verbal Reasoning,2,C,2,C,True,28,93.33333333333333,0.0,0.7362753000000001
+LLM_016,Emery Gonzalez,Grade 7,VERB_004,Verbal Reasoning,0,A,0,A,True,28,93.33333333333333,0.0,0.7362753000000001
+LLM_016,Emery Gonzalez,Grade 7,VERB_005,Verbal Reasoning,3,D,1,B,False,28,93.33333333333333,0.0,0.7362753000000001
+LLM_016,Emery Gonzalez,Grade 7,VERB_006,Verbal Reasoning,0,A,0,A,True,28,93.33333333333333,0.0,0.7362753000000001
+LLM_016,Emery Gonzalez,Grade 7,VERB_007,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.7362753000000001
+LLM_016,Emery Gonzalez,Grade 7,VERB_008,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.7362753000000001
+LLM_016,Emery Gonzalez,Grade 7,VERB_009,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.7362753000000001
+LLM_016,Emery Gonzalez,Grade 7,VERB_010,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.7362753000000001
+LLM_016,Emery Gonzalez,Grade 7,SPAT_001,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.7362753000000001
+LLM_016,Emery Gonzalez,Grade 7,SPAT_002,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.7362753000000001
+LLM_016,Emery Gonzalez,Grade 7,SPAT_003,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.7362753000000001
+LLM_016,Emery Gonzalez,Grade 7,SPAT_004,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.7362753000000001
+LLM_016,Emery Gonzalez,Grade 7,SPAT_005,Spatial Reasoning,1,B,0,A,False,28,93.33333333333333,0.0,0.7362753000000001
+LLM_016,Emery Gonzalez,Grade 7,SPAT_006,Spatial Reasoning,3,D,3,D,True,28,93.33333333333333,0.0,0.7362753000000001
+LLM_016,Emery Gonzalez,Grade 7,SPAT_007,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.7362753000000001
+LLM_016,Emery Gonzalez,Grade 7,SPAT_008,Spatial Reasoning,2,C,2,C,True,28,93.33333333333333,0.0,0.7362753000000001
+LLM_016,Emery Gonzalez,Grade 7,SPAT_009,Spatial Reasoning,2,C,2,C,True,28,93.33333333333333,0.0,0.7362753000000001
+LLM_016,Emery Gonzalez,Grade 7,SPAT_010,Spatial Reasoning,2,C,2,C,True,28,93.33333333333333,0.0,0.7362753000000001
+LLM_017,Casey Jones,Grade 8,MATH_001,Mathematics,2,C,1,B,False,14,46.666666666666664,0.0,0.9768399999999999
+LLM_017,Casey Jones,Grade 8,MATH_002,Mathematics,1,B,1,B,True,14,46.666666666666664,0.0,0.9768399999999999
+LLM_017,Casey Jones,Grade 8,MATH_003,Mathematics,2,C,0,A,False,14,46.666666666666664,0.0,0.9768399999999999
+LLM_017,Casey Jones,Grade 8,MATH_004,Mathematics,1,B,1,B,True,14,46.666666666666664,0.0,0.9768399999999999
+LLM_017,Casey Jones,Grade 8,MATH_005,Mathematics,1,B,1,B,True,14,46.666666666666664,0.0,0.9768399999999999
+LLM_017,Casey Jones,Grade 8,MATH_006,Mathematics,0,A,1,B,False,14,46.666666666666664,0.0,0.9768399999999999
+LLM_017,Casey Jones,Grade 8,MATH_007,Mathematics,1,B,0,A,False,14,46.666666666666664,0.0,0.9768399999999999
+LLM_017,Casey Jones,Grade 8,MATH_008,Mathematics,2,C,2,C,True,14,46.666666666666664,0.0,0.9768399999999999
+LLM_017,Casey Jones,Grade 8,MATH_009,Mathematics,1,B,1,B,True,14,46.666666666666664,0.0,0.9768399999999999
+LLM_017,Casey Jones,Grade 8,MATH_010,Mathematics,0,A,2,C,False,14,46.666666666666664,0.0,0.9768399999999999
+LLM_017,Casey Jones,Grade 8,VERB_001,Verbal Reasoning,3,D,1,B,False,14,46.666666666666664,0.0,0.9768399999999999
+LLM_017,Casey Jones,Grade 8,VERB_002,Verbal Reasoning,0,A,0,A,True,14,46.666666666666664,0.0,0.9768399999999999
+LLM_017,Casey Jones,Grade 8,VERB_003,Verbal Reasoning,2,C,2,C,True,14,46.666666666666664,0.0,0.9768399999999999
+LLM_017,Casey Jones,Grade 8,VERB_004,Verbal Reasoning,3,D,0,A,False,14,46.666666666666664,0.0,0.9768399999999999
+LLM_017,Casey Jones,Grade 8,VERB_005,Verbal Reasoning,3,D,1,B,False,14,46.666666666666664,0.0,0.9768399999999999
+LLM_017,Casey Jones,Grade 8,VERB_006,Verbal Reasoning,0,A,0,A,True,14,46.666666666666664,0.0,0.9768399999999999
+LLM_017,Casey Jones,Grade 8,VERB_007,Verbal Reasoning,3,D,1,B,False,14,46.666666666666664,0.0,0.9768399999999999
+LLM_017,Casey Jones,Grade 8,VERB_008,Verbal Reasoning,3,D,1,B,False,14,46.666666666666664,0.0,0.9768399999999999
+LLM_017,Casey Jones,Grade 8,VERB_009,Verbal Reasoning,2,C,1,B,False,14,46.666666666666664,0.0,0.9768399999999999
+LLM_017,Casey Jones,Grade 8,VERB_010,Verbal Reasoning,0,A,1,B,False,14,46.666666666666664,0.0,0.9768399999999999
+LLM_017,Casey Jones,Grade 8,SPAT_001,Spatial Reasoning,1,B,1,B,True,14,46.666666666666664,0.0,0.9768399999999999
+LLM_017,Casey Jones,Grade 8,SPAT_002,Spatial Reasoning,1,B,1,B,True,14,46.666666666666664,0.0,0.9768399999999999
+LLM_017,Casey Jones,Grade 8,SPAT_003,Spatial Reasoning,1,B,1,B,True,14,46.666666666666664,0.0,0.9768399999999999
+LLM_017,Casey Jones,Grade 8,SPAT_004,Spatial Reasoning,0,A,1,B,False,14,46.666666666666664,0.0,0.9768399999999999
+LLM_017,Casey Jones,Grade 8,SPAT_005,Spatial Reasoning,3,D,0,A,False,14,46.666666666666664,0.0,0.9768399999999999
+LLM_017,Casey Jones,Grade 8,SPAT_006,Spatial Reasoning,3,D,3,D,True,14,46.666666666666664,0.0,0.9768399999999999
+LLM_017,Casey Jones,Grade 8,SPAT_007,Spatial Reasoning,1,B,1,B,True,14,46.666666666666664,0.0,0.9768399999999999
+LLM_017,Casey Jones,Grade 8,SPAT_008,Spatial Reasoning,2,C,2,C,True,14,46.666666666666664,0.0,0.9768399999999999
+LLM_017,Casey Jones,Grade 8,SPAT_009,Spatial Reasoning,3,D,2,C,False,14,46.666666666666664,0.0,0.9768399999999999
+LLM_017,Casey Jones,Grade 8,SPAT_010,Spatial Reasoning,1,B,2,C,False,14,46.666666666666664,0.0,0.9768399999999999
+LLM_018,River Brown,Grade 7,MATH_001,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.6170680333333334
+LLM_018,River Brown,Grade 7,MATH_002,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.6170680333333334
+LLM_018,River Brown,Grade 7,MATH_003,Mathematics,0,A,0,A,True,28,93.33333333333333,0.0,0.6170680333333334
+LLM_018,River Brown,Grade 7,MATH_004,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.6170680333333334
+LLM_018,River Brown,Grade 7,MATH_005,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.6170680333333334
+LLM_018,River Brown,Grade 7,MATH_006,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.6170680333333334
+LLM_018,River Brown,Grade 7,MATH_007,Mathematics,0,A,0,A,True,28,93.33333333333333,0.0,0.6170680333333334
+LLM_018,River Brown,Grade 7,MATH_008,Mathematics,2,C,2,C,True,28,93.33333333333333,0.0,0.6170680333333334
+LLM_018,River Brown,Grade 7,MATH_009,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.6170680333333334
+LLM_018,River Brown,Grade 7,MATH_010,Mathematics,2,C,2,C,True,28,93.33333333333333,0.0,0.6170680333333334
+LLM_018,River Brown,Grade 7,VERB_001,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6170680333333334
+LLM_018,River Brown,Grade 7,VERB_002,Verbal Reasoning,0,A,0,A,True,28,93.33333333333333,0.0,0.6170680333333334
+LLM_018,River Brown,Grade 7,VERB_003,Verbal Reasoning,2,C,2,C,True,28,93.33333333333333,0.0,0.6170680333333334
+LLM_018,River Brown,Grade 7,VERB_004,Verbal Reasoning,0,A,0,A,True,28,93.33333333333333,0.0,0.6170680333333334
+LLM_018,River Brown,Grade 7,VERB_005,Verbal Reasoning,3,D,1,B,False,28,93.33333333333333,0.0,0.6170680333333334
+LLM_018,River Brown,Grade 7,VERB_006,Verbal Reasoning,0,A,0,A,True,28,93.33333333333333,0.0,0.6170680333333334
+LLM_018,River Brown,Grade 7,VERB_007,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6170680333333334
+LLM_018,River Brown,Grade 7,VERB_008,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6170680333333334
+LLM_018,River Brown,Grade 7,VERB_009,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6170680333333334
+LLM_018,River Brown,Grade 7,VERB_010,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6170680333333334
+LLM_018,River Brown,Grade 7,SPAT_001,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6170680333333334
+LLM_018,River Brown,Grade 7,SPAT_002,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6170680333333334
+LLM_018,River Brown,Grade 7,SPAT_003,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6170680333333334
+LLM_018,River Brown,Grade 7,SPAT_004,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6170680333333334
+LLM_018,River Brown,Grade 7,SPAT_005,Spatial Reasoning,1,B,0,A,False,28,93.33333333333333,0.0,0.6170680333333334
+LLM_018,River Brown,Grade 7,SPAT_006,Spatial Reasoning,3,D,3,D,True,28,93.33333333333333,0.0,0.6170680333333334
+LLM_018,River Brown,Grade 7,SPAT_007,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6170680333333334
+LLM_018,River Brown,Grade 7,SPAT_008,Spatial Reasoning,2,C,2,C,True,28,93.33333333333333,0.0,0.6170680333333334
+LLM_018,River Brown,Grade 7,SPAT_009,Spatial Reasoning,2,C,2,C,True,28,93.33333333333333,0.0,0.6170680333333334
+LLM_018,River Brown,Grade 7,SPAT_010,Spatial Reasoning,2,C,2,C,True,28,93.33333333333333,0.0,0.6170680333333334
+LLM_019,Casey Miller,Grade 7,MATH_001,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.6289415333333334
+LLM_019,Casey Miller,Grade 7,MATH_002,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.6289415333333334
+LLM_019,Casey Miller,Grade 7,MATH_003,Mathematics,0,A,0,A,True,28,93.33333333333333,0.0,0.6289415333333334
+LLM_019,Casey Miller,Grade 7,MATH_004,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.6289415333333334
+LLM_019,Casey Miller,Grade 7,MATH_005,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.6289415333333334
+LLM_019,Casey Miller,Grade 7,MATH_006,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.6289415333333334
+LLM_019,Casey Miller,Grade 7,MATH_007,Mathematics,0,A,0,A,True,28,93.33333333333333,0.0,0.6289415333333334
+LLM_019,Casey Miller,Grade 7,MATH_008,Mathematics,2,C,2,C,True,28,93.33333333333333,0.0,0.6289415333333334
+LLM_019,Casey Miller,Grade 7,MATH_009,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.6289415333333334
+LLM_019,Casey Miller,Grade 7,MATH_010,Mathematics,2,C,2,C,True,28,93.33333333333333,0.0,0.6289415333333334
+LLM_019,Casey Miller,Grade 7,VERB_001,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6289415333333334
+LLM_019,Casey Miller,Grade 7,VERB_002,Verbal Reasoning,0,A,0,A,True,28,93.33333333333333,0.0,0.6289415333333334
+LLM_019,Casey Miller,Grade 7,VERB_003,Verbal Reasoning,2,C,2,C,True,28,93.33333333333333,0.0,0.6289415333333334
+LLM_019,Casey Miller,Grade 7,VERB_004,Verbal Reasoning,0,A,0,A,True,28,93.33333333333333,0.0,0.6289415333333334
+LLM_019,Casey Miller,Grade 7,VERB_005,Verbal Reasoning,3,D,1,B,False,28,93.33333333333333,0.0,0.6289415333333334
+LLM_019,Casey Miller,Grade 7,VERB_006,Verbal Reasoning,0,A,0,A,True,28,93.33333333333333,0.0,0.6289415333333334
+LLM_019,Casey Miller,Grade 7,VERB_007,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6289415333333334
+LLM_019,Casey Miller,Grade 7,VERB_008,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6289415333333334
+LLM_019,Casey Miller,Grade 7,VERB_009,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6289415333333334
+LLM_019,Casey Miller,Grade 7,VERB_010,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6289415333333334
+LLM_019,Casey Miller,Grade 7,SPAT_001,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6289415333333334
+LLM_019,Casey Miller,Grade 7,SPAT_002,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6289415333333334
+LLM_019,Casey Miller,Grade 7,SPAT_003,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6289415333333334
+LLM_019,Casey Miller,Grade 7,SPAT_004,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6289415333333334
+LLM_019,Casey Miller,Grade 7,SPAT_005,Spatial Reasoning,1,B,0,A,False,28,93.33333333333333,0.0,0.6289415333333334
+LLM_019,Casey Miller,Grade 7,SPAT_006,Spatial Reasoning,3,D,3,D,True,28,93.33333333333333,0.0,0.6289415333333334
+LLM_019,Casey Miller,Grade 7,SPAT_007,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.6289415333333334
+LLM_019,Casey Miller,Grade 7,SPAT_008,Spatial Reasoning,2,C,2,C,True,28,93.33333333333333,0.0,0.6289415333333334
+LLM_019,Casey Miller,Grade 7,SPAT_009,Spatial Reasoning,2,C,2,C,True,28,93.33333333333333,0.0,0.6289415333333334
+LLM_019,Casey Miller,Grade 7,SPAT_010,Spatial Reasoning,2,C,2,C,True,28,93.33333333333333,0.0,0.6289415333333334
+LLM_020,Parker Miller,Grade 9,MATH_001,Mathematics,1,B,1,B,True,27,90.0,0.0,0.7202357
+LLM_020,Parker Miller,Grade 9,MATH_002,Mathematics,1,B,1,B,True,27,90.0,0.0,0.7202357
+LLM_020,Parker Miller,Grade 9,MATH_003,Mathematics,0,A,0,A,True,27,90.0,0.0,0.7202357
+LLM_020,Parker Miller,Grade 9,MATH_004,Mathematics,1,B,1,B,True,27,90.0,0.0,0.7202357
+LLM_020,Parker Miller,Grade 9,MATH_005,Mathematics,1,B,1,B,True,27,90.0,0.0,0.7202357
+LLM_020,Parker Miller,Grade 9,MATH_006,Mathematics,1,B,1,B,True,27,90.0,0.0,0.7202357
+LLM_020,Parker Miller,Grade 9,MATH_007,Mathematics,0,A,0,A,True,27,90.0,0.0,0.7202357
+LLM_020,Parker Miller,Grade 9,MATH_008,Mathematics,2,C,2,C,True,27,90.0,0.0,0.7202357
+LLM_020,Parker Miller,Grade 9,MATH_009,Mathematics,0,A,1,B,False,27,90.0,0.0,0.7202357
+LLM_020,Parker Miller,Grade 9,MATH_010,Mathematics,2,C,2,C,True,27,90.0,0.0,0.7202357
+LLM_020,Parker Miller,Grade 9,VERB_001,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.7202357
+LLM_020,Parker Miller,Grade 9,VERB_002,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.7202357
+LLM_020,Parker Miller,Grade 9,VERB_003,Verbal Reasoning,2,C,2,C,True,27,90.0,0.0,0.7202357
+LLM_020,Parker Miller,Grade 9,VERB_004,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.7202357
+LLM_020,Parker Miller,Grade 9,VERB_005,Verbal Reasoning,3,D,1,B,False,27,90.0,0.0,0.7202357
+LLM_020,Parker Miller,Grade 9,VERB_006,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.7202357
+LLM_020,Parker Miller,Grade 9,VERB_007,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.7202357
+LLM_020,Parker Miller,Grade 9,VERB_008,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.7202357
+LLM_020,Parker Miller,Grade 9,VERB_009,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.7202357
+LLM_020,Parker Miller,Grade 9,VERB_010,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.7202357
+LLM_020,Parker Miller,Grade 9,SPAT_001,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.7202357
+LLM_020,Parker Miller,Grade 9,SPAT_002,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.7202357
+LLM_020,Parker Miller,Grade 9,SPAT_003,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.7202357
+LLM_020,Parker Miller,Grade 9,SPAT_004,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.7202357
+LLM_020,Parker Miller,Grade 9,SPAT_005,Spatial Reasoning,1,B,0,A,False,27,90.0,0.0,0.7202357
+LLM_020,Parker Miller,Grade 9,SPAT_006,Spatial Reasoning,3,D,3,D,True,27,90.0,0.0,0.7202357
+LLM_020,Parker Miller,Grade 9,SPAT_007,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.7202357
+LLM_020,Parker Miller,Grade 9,SPAT_008,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.7202357
+LLM_020,Parker Miller,Grade 9,SPAT_009,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.7202357
+LLM_020,Parker Miller,Grade 9,SPAT_010,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.7202357
+LLM_021,Sky Miller,Grade 9,MATH_001,Mathematics,1,B,1,B,True,27,90.0,0.0,0.5463735333333334
+LLM_021,Sky Miller,Grade 9,MATH_002,Mathematics,1,B,1,B,True,27,90.0,0.0,0.5463735333333334
+LLM_021,Sky Miller,Grade 9,MATH_003,Mathematics,0,A,0,A,True,27,90.0,0.0,0.5463735333333334
+LLM_021,Sky Miller,Grade 9,MATH_004,Mathematics,1,B,1,B,True,27,90.0,0.0,0.5463735333333334
+LLM_021,Sky Miller,Grade 9,MATH_005,Mathematics,1,B,1,B,True,27,90.0,0.0,0.5463735333333334
+LLM_021,Sky Miller,Grade 9,MATH_006,Mathematics,1,B,1,B,True,27,90.0,0.0,0.5463735333333334
+LLM_021,Sky Miller,Grade 9,MATH_007,Mathematics,0,A,0,A,True,27,90.0,0.0,0.5463735333333334
+LLM_021,Sky Miller,Grade 9,MATH_008,Mathematics,2,C,2,C,True,27,90.0,0.0,0.5463735333333334
+LLM_021,Sky Miller,Grade 9,MATH_009,Mathematics,0,A,1,B,False,27,90.0,0.0,0.5463735333333334
+LLM_021,Sky Miller,Grade 9,MATH_010,Mathematics,2,C,2,C,True,27,90.0,0.0,0.5463735333333334
+LLM_021,Sky Miller,Grade 9,VERB_001,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.5463735333333334
+LLM_021,Sky Miller,Grade 9,VERB_002,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.5463735333333334
+LLM_021,Sky Miller,Grade 9,VERB_003,Verbal Reasoning,2,C,2,C,True,27,90.0,0.0,0.5463735333333334
+LLM_021,Sky Miller,Grade 9,VERB_004,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.5463735333333334
+LLM_021,Sky Miller,Grade 9,VERB_005,Verbal Reasoning,3,D,1,B,False,27,90.0,0.0,0.5463735333333334
+LLM_021,Sky Miller,Grade 9,VERB_006,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.5463735333333334
+LLM_021,Sky Miller,Grade 9,VERB_007,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.5463735333333334
+LLM_021,Sky Miller,Grade 9,VERB_008,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.5463735333333334
+LLM_021,Sky Miller,Grade 9,VERB_009,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.5463735333333334
+LLM_021,Sky Miller,Grade 9,VERB_010,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.5463735333333334
+LLM_021,Sky Miller,Grade 9,SPAT_001,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.5463735333333334
+LLM_021,Sky Miller,Grade 9,SPAT_002,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.5463735333333334
+LLM_021,Sky Miller,Grade 9,SPAT_003,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.5463735333333334
+LLM_021,Sky Miller,Grade 9,SPAT_004,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.5463735333333334
+LLM_021,Sky Miller,Grade 9,SPAT_005,Spatial Reasoning,1,B,0,A,False,27,90.0,0.0,0.5463735333333334
+LLM_021,Sky Miller,Grade 9,SPAT_006,Spatial Reasoning,3,D,3,D,True,27,90.0,0.0,0.5463735333333334
+LLM_021,Sky Miller,Grade 9,SPAT_007,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.5463735333333334
+LLM_021,Sky Miller,Grade 9,SPAT_008,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.5463735333333334
+LLM_021,Sky Miller,Grade 9,SPAT_009,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.5463735333333334
+LLM_021,Sky Miller,Grade 9,SPAT_010,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.5463735333333334
+LLM_022,Rowan Perez,Grade 8,MATH_001,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.7546355666666666
+LLM_022,Rowan Perez,Grade 8,MATH_002,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.7546355666666666
+LLM_022,Rowan Perez,Grade 8,MATH_003,Mathematics,0,A,0,A,True,28,93.33333333333333,0.0,0.7546355666666666
+LLM_022,Rowan Perez,Grade 8,MATH_004,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.7546355666666666
+LLM_022,Rowan Perez,Grade 8,MATH_005,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.7546355666666666
+LLM_022,Rowan Perez,Grade 8,MATH_006,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.7546355666666666
+LLM_022,Rowan Perez,Grade 8,MATH_007,Mathematics,0,A,0,A,True,28,93.33333333333333,0.0,0.7546355666666666
+LLM_022,Rowan Perez,Grade 8,MATH_008,Mathematics,2,C,2,C,True,28,93.33333333333333,0.0,0.7546355666666666
+LLM_022,Rowan Perez,Grade 8,MATH_009,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.7546355666666666
+LLM_022,Rowan Perez,Grade 8,MATH_010,Mathematics,2,C,2,C,True,28,93.33333333333333,0.0,0.7546355666666666
+LLM_022,Rowan Perez,Grade 8,VERB_001,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.7546355666666666
+LLM_022,Rowan Perez,Grade 8,VERB_002,Verbal Reasoning,0,A,0,A,True,28,93.33333333333333,0.0,0.7546355666666666
+LLM_022,Rowan Perez,Grade 8,VERB_003,Verbal Reasoning,2,C,2,C,True,28,93.33333333333333,0.0,0.7546355666666666
+LLM_022,Rowan Perez,Grade 8,VERB_004,Verbal Reasoning,0,A,0,A,True,28,93.33333333333333,0.0,0.7546355666666666
+LLM_022,Rowan Perez,Grade 8,VERB_005,Verbal Reasoning,3,D,1,B,False,28,93.33333333333333,0.0,0.7546355666666666
+LLM_022,Rowan Perez,Grade 8,VERB_006,Verbal Reasoning,0,A,0,A,True,28,93.33333333333333,0.0,0.7546355666666666
+LLM_022,Rowan Perez,Grade 8,VERB_007,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.7546355666666666
+LLM_022,Rowan Perez,Grade 8,VERB_008,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.7546355666666666
+LLM_022,Rowan Perez,Grade 8,VERB_009,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.7546355666666666
+LLM_022,Rowan Perez,Grade 8,VERB_010,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.7546355666666666
+LLM_022,Rowan Perez,Grade 8,SPAT_001,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.7546355666666666
+LLM_022,Rowan Perez,Grade 8,SPAT_002,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.7546355666666666
+LLM_022,Rowan Perez,Grade 8,SPAT_003,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.7546355666666666
+LLM_022,Rowan Perez,Grade 8,SPAT_004,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.7546355666666666
+LLM_022,Rowan Perez,Grade 8,SPAT_005,Spatial Reasoning,1,B,0,A,False,28,93.33333333333333,0.0,0.7546355666666666
+LLM_022,Rowan Perez,Grade 8,SPAT_006,Spatial Reasoning,3,D,3,D,True,28,93.33333333333333,0.0,0.7546355666666666
+LLM_022,Rowan Perez,Grade 8,SPAT_007,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.7546355666666666
+LLM_022,Rowan Perez,Grade 8,SPAT_008,Spatial Reasoning,2,C,2,C,True,28,93.33333333333333,0.0,0.7546355666666666
+LLM_022,Rowan Perez,Grade 8,SPAT_009,Spatial Reasoning,2,C,2,C,True,28,93.33333333333333,0.0,0.7546355666666666
+LLM_022,Rowan Perez,Grade 8,SPAT_010,Spatial Reasoning,2,C,2,C,True,28,93.33333333333333,0.0,0.7546355666666666
+LLM_023,Blake Davis,Grade 9,MATH_001,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6182306666666667
+LLM_023,Blake Davis,Grade 9,MATH_002,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6182306666666667
+LLM_023,Blake Davis,Grade 9,MATH_003,Mathematics,0,A,0,A,True,27,90.0,0.0,0.6182306666666667
+LLM_023,Blake Davis,Grade 9,MATH_004,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6182306666666667
+LLM_023,Blake Davis,Grade 9,MATH_005,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6182306666666667
+LLM_023,Blake Davis,Grade 9,MATH_006,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6182306666666667
+LLM_023,Blake Davis,Grade 9,MATH_007,Mathematics,0,A,0,A,True,27,90.0,0.0,0.6182306666666667
+LLM_023,Blake Davis,Grade 9,MATH_008,Mathematics,2,C,2,C,True,27,90.0,0.0,0.6182306666666667
+LLM_023,Blake Davis,Grade 9,MATH_009,Mathematics,0,A,1,B,False,27,90.0,0.0,0.6182306666666667
+LLM_023,Blake Davis,Grade 9,MATH_010,Mathematics,2,C,2,C,True,27,90.0,0.0,0.6182306666666667
+LLM_023,Blake Davis,Grade 9,VERB_001,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6182306666666667
+LLM_023,Blake Davis,Grade 9,VERB_002,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.6182306666666667
+LLM_023,Blake Davis,Grade 9,VERB_003,Verbal Reasoning,2,C,2,C,True,27,90.0,0.0,0.6182306666666667
+LLM_023,Blake Davis,Grade 9,VERB_004,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.6182306666666667
+LLM_023,Blake Davis,Grade 9,VERB_005,Verbal Reasoning,3,D,1,B,False,27,90.0,0.0,0.6182306666666667
+LLM_023,Blake Davis,Grade 9,VERB_006,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.6182306666666667
+LLM_023,Blake Davis,Grade 9,VERB_007,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6182306666666667
+LLM_023,Blake Davis,Grade 9,VERB_008,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6182306666666667
+LLM_023,Blake Davis,Grade 9,VERB_009,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6182306666666667
+LLM_023,Blake Davis,Grade 9,VERB_010,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6182306666666667
+LLM_023,Blake Davis,Grade 9,SPAT_001,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6182306666666667
+LLM_023,Blake Davis,Grade 9,SPAT_002,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6182306666666667
+LLM_023,Blake Davis,Grade 9,SPAT_003,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6182306666666667
+LLM_023,Blake Davis,Grade 9,SPAT_004,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6182306666666667
+LLM_023,Blake Davis,Grade 9,SPAT_005,Spatial Reasoning,1,B,0,A,False,27,90.0,0.0,0.6182306666666667
+LLM_023,Blake Davis,Grade 9,SPAT_006,Spatial Reasoning,3,D,3,D,True,27,90.0,0.0,0.6182306666666667
+LLM_023,Blake Davis,Grade 9,SPAT_007,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6182306666666667
+LLM_023,Blake Davis,Grade 9,SPAT_008,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.6182306666666667
+LLM_023,Blake Davis,Grade 9,SPAT_009,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.6182306666666667
+LLM_023,Blake Davis,Grade 9,SPAT_010,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.6182306666666667
+LLM_024,Blake Davis,Grade 7,MATH_001,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6574909166666667
+LLM_024,Blake Davis,Grade 7,MATH_002,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6574909166666667
+LLM_024,Blake Davis,Grade 7,MATH_003,Mathematics,0,A,0,A,True,27,90.0,0.0,0.6574909166666667
+LLM_024,Blake Davis,Grade 7,MATH_004,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6574909166666667
+LLM_024,Blake Davis,Grade 7,MATH_005,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6574909166666667
+LLM_024,Blake Davis,Grade 7,MATH_006,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6574909166666667
+LLM_024,Blake Davis,Grade 7,MATH_007,Mathematics,0,A,0,A,True,27,90.0,0.0,0.6574909166666667
+LLM_024,Blake Davis,Grade 7,MATH_008,Mathematics,2,C,2,C,True,27,90.0,0.0,0.6574909166666667
+LLM_024,Blake Davis,Grade 7,MATH_009,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6574909166666667
+LLM_024,Blake Davis,Grade 7,MATH_010,Mathematics,2,C,2,C,True,27,90.0,0.0,0.6574909166666667
+LLM_024,Blake Davis,Grade 7,VERB_001,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6574909166666667
+LLM_024,Blake Davis,Grade 7,VERB_002,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.6574909166666667
+LLM_024,Blake Davis,Grade 7,VERB_003,Verbal Reasoning,2,C,2,C,True,27,90.0,0.0,0.6574909166666667
+LLM_024,Blake Davis,Grade 7,VERB_004,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.6574909166666667
+LLM_024,Blake Davis,Grade 7,VERB_005,Verbal Reasoning,3,D,1,B,False,27,90.0,0.0,0.6574909166666667
+LLM_024,Blake Davis,Grade 7,VERB_006,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.6574909166666667
+LLM_024,Blake Davis,Grade 7,VERB_007,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6574909166666667
+LLM_024,Blake Davis,Grade 7,VERB_008,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6574909166666667
+LLM_024,Blake Davis,Grade 7,VERB_009,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6574909166666667
+LLM_024,Blake Davis,Grade 7,VERB_010,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6574909166666667
+LLM_024,Blake Davis,Grade 7,SPAT_001,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6574909166666667
+LLM_024,Blake Davis,Grade 7,SPAT_002,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6574909166666667
+LLM_024,Blake Davis,Grade 7,SPAT_003,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6574909166666667
+LLM_024,Blake Davis,Grade 7,SPAT_004,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6574909166666667
+LLM_024,Blake Davis,Grade 7,SPAT_005,Spatial Reasoning,1,B,0,A,False,27,90.0,0.0,0.6574909166666667
+LLM_024,Blake Davis,Grade 7,SPAT_006,Spatial Reasoning,3,D,3,D,True,27,90.0,0.0,0.6574909166666667
+LLM_024,Blake Davis,Grade 7,SPAT_007,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6574909166666667
+LLM_024,Blake Davis,Grade 7,SPAT_008,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.6574909166666667
+LLM_024,Blake Davis,Grade 7,SPAT_009,Spatial Reasoning,3,D,2,C,False,27,90.0,0.0,0.6574909166666667
+LLM_024,Blake Davis,Grade 7,SPAT_010,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.6574909166666667
+LLM_025,Alex Anderson,Grade 7,MATH_001,Mathematics,1,B,1,B,True,14,46.666666666666664,0.0,0.8312857666666668
+LLM_025,Alex Anderson,Grade 7,MATH_002,Mathematics,1,B,1,B,True,14,46.666666666666664,0.0,0.8312857666666668
+LLM_025,Alex Anderson,Grade 7,MATH_003,Mathematics,3,D,0,A,False,14,46.666666666666664,0.0,0.8312857666666668
+LLM_025,Alex Anderson,Grade 7,MATH_004,Mathematics,1,B,1,B,True,14,46.666666666666664,0.0,0.8312857666666668
+LLM_025,Alex Anderson,Grade 7,MATH_005,Mathematics,1,B,1,B,True,14,46.666666666666664,0.0,0.8312857666666668
+LLM_025,Alex Anderson,Grade 7,MATH_006,Mathematics,0,A,1,B,False,14,46.666666666666664,0.0,0.8312857666666668
+LLM_025,Alex Anderson,Grade 7,MATH_007,Mathematics,1,B,0,A,False,14,46.666666666666664,0.0,0.8312857666666668
+LLM_025,Alex Anderson,Grade 7,MATH_008,Mathematics,2,C,2,C,True,14,46.666666666666664,0.0,0.8312857666666668
+LLM_025,Alex Anderson,Grade 7,MATH_009,Mathematics,1,B,1,B,True,14,46.666666666666664,0.0,0.8312857666666668
+LLM_025,Alex Anderson,Grade 7,MATH_010,Mathematics,0,A,2,C,False,14,46.666666666666664,0.0,0.8312857666666668
+LLM_025,Alex Anderson,Grade 7,VERB_001,Verbal Reasoning,3,D,1,B,False,14,46.666666666666664,0.0,0.8312857666666668
+LLM_025,Alex Anderson,Grade 7,VERB_002,Verbal Reasoning,3,D,0,A,False,14,46.666666666666664,0.0,0.8312857666666668
+LLM_025,Alex Anderson,Grade 7,VERB_003,Verbal Reasoning,2,C,2,C,True,14,46.666666666666664,0.0,0.8312857666666668
+LLM_025,Alex Anderson,Grade 7,VERB_004,Verbal Reasoning,2,C,0,A,False,14,46.666666666666664,0.0,0.8312857666666668
+LLM_025,Alex Anderson,Grade 7,VERB_005,Verbal Reasoning,3,D,1,B,False,14,46.666666666666664,0.0,0.8312857666666668
+LLM_025,Alex Anderson,Grade 7,VERB_006,Verbal Reasoning,0,A,0,A,True,14,46.666666666666664,0.0,0.8312857666666668
+LLM_025,Alex Anderson,Grade 7,VERB_007,Verbal Reasoning,3,D,1,B,False,14,46.666666666666664,0.0,0.8312857666666668
+LLM_025,Alex Anderson,Grade 7,VERB_008,Verbal Reasoning,3,D,1,B,False,14,46.666666666666664,0.0,0.8312857666666668
+LLM_025,Alex Anderson,Grade 7,VERB_009,Verbal Reasoning,0,A,1,B,False,14,46.666666666666664,0.0,0.8312857666666668
+LLM_025,Alex Anderson,Grade 7,VERB_010,Verbal Reasoning,0,A,1,B,False,14,46.666666666666664,0.0,0.8312857666666668
+LLM_025,Alex Anderson,Grade 7,SPAT_001,Spatial Reasoning,1,B,1,B,True,14,46.666666666666664,0.0,0.8312857666666668
+LLM_025,Alex Anderson,Grade 7,SPAT_002,Spatial Reasoning,0,A,1,B,False,14,46.666666666666664,0.0,0.8312857666666668
+LLM_025,Alex Anderson,Grade 7,SPAT_003,Spatial Reasoning,1,B,1,B,True,14,46.666666666666664,0.0,0.8312857666666668
+LLM_025,Alex Anderson,Grade 7,SPAT_004,Spatial Reasoning,0,A,1,B,False,14,46.666666666666664,0.0,0.8312857666666668
+LLM_025,Alex Anderson,Grade 7,SPAT_005,Spatial Reasoning,3,D,0,A,False,14,46.666666666666664,0.0,0.8312857666666668
+LLM_025,Alex Anderson,Grade 7,SPAT_006,Spatial Reasoning,3,D,3,D,True,14,46.666666666666664,0.0,0.8312857666666668
+LLM_025,Alex Anderson,Grade 7,SPAT_007,Spatial Reasoning,1,B,1,B,True,14,46.666666666666664,0.0,0.8312857666666668
+LLM_025,Alex Anderson,Grade 7,SPAT_008,Spatial Reasoning,2,C,2,C,True,14,46.666666666666664,0.0,0.8312857666666668
+LLM_025,Alex Anderson,Grade 7,SPAT_009,Spatial Reasoning,3,D,2,C,False,14,46.666666666666664,0.0,0.8312857666666668
+LLM_025,Alex Anderson,Grade 7,SPAT_010,Spatial Reasoning,2,C,2,C,True,14,46.666666666666664,0.0,0.8312857666666668
+LLM_026,Emery Anderson,Grade 9,MATH_001,Mathematics,1,B,1,B,True,27,90.0,0.0,0.5908025
+LLM_026,Emery Anderson,Grade 9,MATH_002,Mathematics,1,B,1,B,True,27,90.0,0.0,0.5908025
+LLM_026,Emery Anderson,Grade 9,MATH_003,Mathematics,0,A,0,A,True,27,90.0,0.0,0.5908025
+LLM_026,Emery Anderson,Grade 9,MATH_004,Mathematics,1,B,1,B,True,27,90.0,0.0,0.5908025
+LLM_026,Emery Anderson,Grade 9,MATH_005,Mathematics,1,B,1,B,True,27,90.0,0.0,0.5908025
+LLM_026,Emery Anderson,Grade 9,MATH_006,Mathematics,1,B,1,B,True,27,90.0,0.0,0.5908025
+LLM_026,Emery Anderson,Grade 9,MATH_007,Mathematics,0,A,0,A,True,27,90.0,0.0,0.5908025
+LLM_026,Emery Anderson,Grade 9,MATH_008,Mathematics,2,C,2,C,True,27,90.0,0.0,0.5908025
+LLM_026,Emery Anderson,Grade 9,MATH_009,Mathematics,0,A,1,B,False,27,90.0,0.0,0.5908025
+LLM_026,Emery Anderson,Grade 9,MATH_010,Mathematics,2,C,2,C,True,27,90.0,0.0,0.5908025
+LLM_026,Emery Anderson,Grade 9,VERB_001,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.5908025
+LLM_026,Emery Anderson,Grade 9,VERB_002,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.5908025
+LLM_026,Emery Anderson,Grade 9,VERB_003,Verbal Reasoning,2,C,2,C,True,27,90.0,0.0,0.5908025
+LLM_026,Emery Anderson,Grade 9,VERB_004,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.5908025
+LLM_026,Emery Anderson,Grade 9,VERB_005,Verbal Reasoning,3,D,1,B,False,27,90.0,0.0,0.5908025
+LLM_026,Emery Anderson,Grade 9,VERB_006,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.5908025
+LLM_026,Emery Anderson,Grade 9,VERB_007,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.5908025
+LLM_026,Emery Anderson,Grade 9,VERB_008,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.5908025
+LLM_026,Emery Anderson,Grade 9,VERB_009,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.5908025
+LLM_026,Emery Anderson,Grade 9,VERB_010,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.5908025
+LLM_026,Emery Anderson,Grade 9,SPAT_001,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.5908025
+LLM_026,Emery Anderson,Grade 9,SPAT_002,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.5908025
+LLM_026,Emery Anderson,Grade 9,SPAT_003,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.5908025
+LLM_026,Emery Anderson,Grade 9,SPAT_004,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.5908025
+LLM_026,Emery Anderson,Grade 9,SPAT_005,Spatial Reasoning,1,B,0,A,False,27,90.0,0.0,0.5908025
+LLM_026,Emery Anderson,Grade 9,SPAT_006,Spatial Reasoning,3,D,3,D,True,27,90.0,0.0,0.5908025
+LLM_026,Emery Anderson,Grade 9,SPAT_007,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.5908025
+LLM_026,Emery Anderson,Grade 9,SPAT_008,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.5908025
+LLM_026,Emery Anderson,Grade 9,SPAT_009,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.5908025
+LLM_026,Emery Anderson,Grade 9,SPAT_010,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.5908025
+LLM_027,Phoenix Miller,Grade 9,MATH_001,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6624323333333333
+LLM_027,Phoenix Miller,Grade 9,MATH_002,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6624323333333333
+LLM_027,Phoenix Miller,Grade 9,MATH_003,Mathematics,0,A,0,A,True,27,90.0,0.0,0.6624323333333333
+LLM_027,Phoenix Miller,Grade 9,MATH_004,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6624323333333333
+LLM_027,Phoenix Miller,Grade 9,MATH_005,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6624323333333333
+LLM_027,Phoenix Miller,Grade 9,MATH_006,Mathematics,1,B,1,B,True,27,90.0,0.0,0.6624323333333333
+LLM_027,Phoenix Miller,Grade 9,MATH_007,Mathematics,0,A,0,A,True,27,90.0,0.0,0.6624323333333333
+LLM_027,Phoenix Miller,Grade 9,MATH_008,Mathematics,2,C,2,C,True,27,90.0,0.0,0.6624323333333333
+LLM_027,Phoenix Miller,Grade 9,MATH_009,Mathematics,0,A,1,B,False,27,90.0,0.0,0.6624323333333333
+LLM_027,Phoenix Miller,Grade 9,MATH_010,Mathematics,2,C,2,C,True,27,90.0,0.0,0.6624323333333333
+LLM_027,Phoenix Miller,Grade 9,VERB_001,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6624323333333333
+LLM_027,Phoenix Miller,Grade 9,VERB_002,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.6624323333333333
+LLM_027,Phoenix Miller,Grade 9,VERB_003,Verbal Reasoning,2,C,2,C,True,27,90.0,0.0,0.6624323333333333
+LLM_027,Phoenix Miller,Grade 9,VERB_004,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.6624323333333333
+LLM_027,Phoenix Miller,Grade 9,VERB_005,Verbal Reasoning,3,D,1,B,False,27,90.0,0.0,0.6624323333333333
+LLM_027,Phoenix Miller,Grade 9,VERB_006,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.6624323333333333
+LLM_027,Phoenix Miller,Grade 9,VERB_007,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6624323333333333
+LLM_027,Phoenix Miller,Grade 9,VERB_008,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6624323333333333
+LLM_027,Phoenix Miller,Grade 9,VERB_009,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6624323333333333
+LLM_027,Phoenix Miller,Grade 9,VERB_010,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.6624323333333333
+LLM_027,Phoenix Miller,Grade 9,SPAT_001,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6624323333333333
+LLM_027,Phoenix Miller,Grade 9,SPAT_002,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6624323333333333
+LLM_027,Phoenix Miller,Grade 9,SPAT_003,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6624323333333333
+LLM_027,Phoenix Miller,Grade 9,SPAT_004,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6624323333333333
+LLM_027,Phoenix Miller,Grade 9,SPAT_005,Spatial Reasoning,1,B,0,A,False,27,90.0,0.0,0.6624323333333333
+LLM_027,Phoenix Miller,Grade 9,SPAT_006,Spatial Reasoning,3,D,3,D,True,27,90.0,0.0,0.6624323333333333
+LLM_027,Phoenix Miller,Grade 9,SPAT_007,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.6624323333333333
+LLM_027,Phoenix Miller,Grade 9,SPAT_008,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.6624323333333333
+LLM_027,Phoenix Miller,Grade 9,SPAT_009,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.6624323333333333
+LLM_027,Phoenix Miller,Grade 9,SPAT_010,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.6624323333333333
+LLM_028,Taylor Thomas,Grade 8,MATH_001,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.49658294999999997
+LLM_028,Taylor Thomas,Grade 8,MATH_002,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.49658294999999997
+LLM_028,Taylor Thomas,Grade 8,MATH_003,Mathematics,0,A,0,A,True,28,93.33333333333333,0.0,0.49658294999999997
+LLM_028,Taylor Thomas,Grade 8,MATH_004,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.49658294999999997
+LLM_028,Taylor Thomas,Grade 8,MATH_005,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.49658294999999997
+LLM_028,Taylor Thomas,Grade 8,MATH_006,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.49658294999999997
+LLM_028,Taylor Thomas,Grade 8,MATH_007,Mathematics,0,A,0,A,True,28,93.33333333333333,0.0,0.49658294999999997
+LLM_028,Taylor Thomas,Grade 8,MATH_008,Mathematics,2,C,2,C,True,28,93.33333333333333,0.0,0.49658294999999997
+LLM_028,Taylor Thomas,Grade 8,MATH_009,Mathematics,1,B,1,B,True,28,93.33333333333333,0.0,0.49658294999999997
+LLM_028,Taylor Thomas,Grade 8,MATH_010,Mathematics,2,C,2,C,True,28,93.33333333333333,0.0,0.49658294999999997
+LLM_028,Taylor Thomas,Grade 8,VERB_001,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.49658294999999997
+LLM_028,Taylor Thomas,Grade 8,VERB_002,Verbal Reasoning,0,A,0,A,True,28,93.33333333333333,0.0,0.49658294999999997
+LLM_028,Taylor Thomas,Grade 8,VERB_003,Verbal Reasoning,2,C,2,C,True,28,93.33333333333333,0.0,0.49658294999999997
+LLM_028,Taylor Thomas,Grade 8,VERB_004,Verbal Reasoning,0,A,0,A,True,28,93.33333333333333,0.0,0.49658294999999997
+LLM_028,Taylor Thomas,Grade 8,VERB_005,Verbal Reasoning,3,D,1,B,False,28,93.33333333333333,0.0,0.49658294999999997
+LLM_028,Taylor Thomas,Grade 8,VERB_006,Verbal Reasoning,0,A,0,A,True,28,93.33333333333333,0.0,0.49658294999999997
+LLM_028,Taylor Thomas,Grade 8,VERB_007,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.49658294999999997
+LLM_028,Taylor Thomas,Grade 8,VERB_008,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.49658294999999997
+LLM_028,Taylor Thomas,Grade 8,VERB_009,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.49658294999999997
+LLM_028,Taylor Thomas,Grade 8,VERB_010,Verbal Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.49658294999999997
+LLM_028,Taylor Thomas,Grade 8,SPAT_001,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.49658294999999997
+LLM_028,Taylor Thomas,Grade 8,SPAT_002,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.49658294999999997
+LLM_028,Taylor Thomas,Grade 8,SPAT_003,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.49658294999999997
+LLM_028,Taylor Thomas,Grade 8,SPAT_004,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.49658294999999997
+LLM_028,Taylor Thomas,Grade 8,SPAT_005,Spatial Reasoning,1,B,0,A,False,28,93.33333333333333,0.0,0.49658294999999997
+LLM_028,Taylor Thomas,Grade 8,SPAT_006,Spatial Reasoning,3,D,3,D,True,28,93.33333333333333,0.0,0.49658294999999997
+LLM_028,Taylor Thomas,Grade 8,SPAT_007,Spatial Reasoning,1,B,1,B,True,28,93.33333333333333,0.0,0.49658294999999997
+LLM_028,Taylor Thomas,Grade 8,SPAT_008,Spatial Reasoning,2,C,2,C,True,28,93.33333333333333,0.0,0.49658294999999997
+LLM_028,Taylor Thomas,Grade 8,SPAT_009,Spatial Reasoning,2,C,2,C,True,28,93.33333333333333,0.0,0.49658294999999997
+LLM_028,Taylor Thomas,Grade 8,SPAT_010,Spatial Reasoning,2,C,2,C,True,28,93.33333333333333,0.0,0.49658294999999997
+LLM_029,Quinn Williams,Grade 9,MATH_001,Mathematics,1,B,1,B,True,27,90.0,0.0,0.7085124166666666
+LLM_029,Quinn Williams,Grade 9,MATH_002,Mathematics,1,B,1,B,True,27,90.0,0.0,0.7085124166666666
+LLM_029,Quinn Williams,Grade 9,MATH_003,Mathematics,0,A,0,A,True,27,90.0,0.0,0.7085124166666666
+LLM_029,Quinn Williams,Grade 9,MATH_004,Mathematics,1,B,1,B,True,27,90.0,0.0,0.7085124166666666
+LLM_029,Quinn Williams,Grade 9,MATH_005,Mathematics,1,B,1,B,True,27,90.0,0.0,0.7085124166666666
+LLM_029,Quinn Williams,Grade 9,MATH_006,Mathematics,1,B,1,B,True,27,90.0,0.0,0.7085124166666666
+LLM_029,Quinn Williams,Grade 9,MATH_007,Mathematics,0,A,0,A,True,27,90.0,0.0,0.7085124166666666
+LLM_029,Quinn Williams,Grade 9,MATH_008,Mathematics,2,C,2,C,True,27,90.0,0.0,0.7085124166666666
+LLM_029,Quinn Williams,Grade 9,MATH_009,Mathematics,0,A,1,B,False,27,90.0,0.0,0.7085124166666666
+LLM_029,Quinn Williams,Grade 9,MATH_010,Mathematics,2,C,2,C,True,27,90.0,0.0,0.7085124166666666
+LLM_029,Quinn Williams,Grade 9,VERB_001,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.7085124166666666
+LLM_029,Quinn Williams,Grade 9,VERB_002,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.7085124166666666
+LLM_029,Quinn Williams,Grade 9,VERB_003,Verbal Reasoning,2,C,2,C,True,27,90.0,0.0,0.7085124166666666
+LLM_029,Quinn Williams,Grade 9,VERB_004,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.7085124166666666
+LLM_029,Quinn Williams,Grade 9,VERB_005,Verbal Reasoning,3,D,1,B,False,27,90.0,0.0,0.7085124166666666
+LLM_029,Quinn Williams,Grade 9,VERB_006,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.7085124166666666
+LLM_029,Quinn Williams,Grade 9,VERB_007,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.7085124166666666
+LLM_029,Quinn Williams,Grade 9,VERB_008,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.7085124166666666
+LLM_029,Quinn Williams,Grade 9,VERB_009,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.7085124166666666
+LLM_029,Quinn Williams,Grade 9,VERB_010,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.7085124166666666
+LLM_029,Quinn Williams,Grade 9,SPAT_001,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.7085124166666666
+LLM_029,Quinn Williams,Grade 9,SPAT_002,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.7085124166666666
+LLM_029,Quinn Williams,Grade 9,SPAT_003,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.7085124166666666
+LLM_029,Quinn Williams,Grade 9,SPAT_004,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.7085124166666666
+LLM_029,Quinn Williams,Grade 9,SPAT_005,Spatial Reasoning,1,B,0,A,False,27,90.0,0.0,0.7085124166666666
+LLM_029,Quinn Williams,Grade 9,SPAT_006,Spatial Reasoning,3,D,3,D,True,27,90.0,0.0,0.7085124166666666
+LLM_029,Quinn Williams,Grade 9,SPAT_007,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.7085124166666666
+LLM_029,Quinn Williams,Grade 9,SPAT_008,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.7085124166666666
+LLM_029,Quinn Williams,Grade 9,SPAT_009,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.7085124166666666
+LLM_029,Quinn Williams,Grade 9,SPAT_010,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.7085124166666666
+LLM_030,Cameron Thompson,Grade 9,MATH_001,Mathematics,1,B,1,B,True,27,90.0,0.0,0.58077625
+LLM_030,Cameron Thompson,Grade 9,MATH_002,Mathematics,1,B,1,B,True,27,90.0,0.0,0.58077625
+LLM_030,Cameron Thompson,Grade 9,MATH_003,Mathematics,0,A,0,A,True,27,90.0,0.0,0.58077625
+LLM_030,Cameron Thompson,Grade 9,MATH_004,Mathematics,1,B,1,B,True,27,90.0,0.0,0.58077625
+LLM_030,Cameron Thompson,Grade 9,MATH_005,Mathematics,1,B,1,B,True,27,90.0,0.0,0.58077625
+LLM_030,Cameron Thompson,Grade 9,MATH_006,Mathematics,1,B,1,B,True,27,90.0,0.0,0.58077625
+LLM_030,Cameron Thompson,Grade 9,MATH_007,Mathematics,0,A,0,A,True,27,90.0,0.0,0.58077625
+LLM_030,Cameron Thompson,Grade 9,MATH_008,Mathematics,2,C,2,C,True,27,90.0,0.0,0.58077625
+LLM_030,Cameron Thompson,Grade 9,MATH_009,Mathematics,0,A,1,B,False,27,90.0,0.0,0.58077625
+LLM_030,Cameron Thompson,Grade 9,MATH_010,Mathematics,2,C,2,C,True,27,90.0,0.0,0.58077625
+LLM_030,Cameron Thompson,Grade 9,VERB_001,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.58077625
+LLM_030,Cameron Thompson,Grade 9,VERB_002,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.58077625
+LLM_030,Cameron Thompson,Grade 9,VERB_003,Verbal Reasoning,2,C,2,C,True,27,90.0,0.0,0.58077625
+LLM_030,Cameron Thompson,Grade 9,VERB_004,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.58077625
+LLM_030,Cameron Thompson,Grade 9,VERB_005,Verbal Reasoning,3,D,1,B,False,27,90.0,0.0,0.58077625
+LLM_030,Cameron Thompson,Grade 9,VERB_006,Verbal Reasoning,0,A,0,A,True,27,90.0,0.0,0.58077625
+LLM_030,Cameron Thompson,Grade 9,VERB_007,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.58077625
+LLM_030,Cameron Thompson,Grade 9,VERB_008,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.58077625
+LLM_030,Cameron Thompson,Grade 9,VERB_009,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.58077625
+LLM_030,Cameron Thompson,Grade 9,VERB_010,Verbal Reasoning,1,B,1,B,True,27,90.0,0.0,0.58077625
+LLM_030,Cameron Thompson,Grade 9,SPAT_001,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.58077625
+LLM_030,Cameron Thompson,Grade 9,SPAT_002,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.58077625
+LLM_030,Cameron Thompson,Grade 9,SPAT_003,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.58077625
+LLM_030,Cameron Thompson,Grade 9,SPAT_004,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.58077625
+LLM_030,Cameron Thompson,Grade 9,SPAT_005,Spatial Reasoning,1,B,0,A,False,27,90.0,0.0,0.58077625
+LLM_030,Cameron Thompson,Grade 9,SPAT_006,Spatial Reasoning,3,D,3,D,True,27,90.0,0.0,0.58077625
+LLM_030,Cameron Thompson,Grade 9,SPAT_007,Spatial Reasoning,1,B,1,B,True,27,90.0,0.0,0.58077625
+LLM_030,Cameron Thompson,Grade 9,SPAT_008,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.58077625
+LLM_030,Cameron Thompson,Grade 9,SPAT_009,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.58077625
+LLM_030,Cameron Thompson,Grade 9,SPAT_010,Spatial Reasoning,2,C,2,C,True,27,90.0,0.0,0.58077625
